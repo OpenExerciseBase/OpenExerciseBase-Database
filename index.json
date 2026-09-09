@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:43:36.852Z",
+  "updatedAt": "2026-09-09T15:10:13.751Z",
   "exercises": [
     {
       "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
@@ -836,6 +836,23 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
       "lastUpdated": "2026-08-03"
+    },
+    {
+      "id": "EX-d-01M23BFCK4DV4AQBZ1ESNGMRSK",
+      "name": "d",
+      "categories": [
+        "endurance"
+      ],
+      "bodyParts": [
+        "hamstrings"
+      ],
+      "equipment": [],
+      "location": [
+        "outdoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-d-01M23BFCK4DV4AQBZ1ESNGMRSK",
+      "lastUpdated": "2026-09-09"
     }
   ]
 }
