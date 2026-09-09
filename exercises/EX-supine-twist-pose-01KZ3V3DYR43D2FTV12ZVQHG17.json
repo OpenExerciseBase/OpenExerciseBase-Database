@@ -15,9 +15,12 @@
   "bodyParts": [
     "core",
     "upper_back",
-    "lower_back"
+    "lower_back",
+    "glutes"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -25,15 +28,15 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Lie on your back, bend your knees, rotate your hips to the left, extend your left leg, and cross your right knee over to the left side."
+      "description": "Lie on your back, bend your knees, rotate your hips to the right, extend your right leg, and cross your left knee over to the right side."
     },
     {
       "stepNumber": 2,
-      "description": "Extend your right arm out to the side and rest your left hand on your right knee."
+      "description": "Extend your left arm out to the side and rest your left hand on your left knee."
     },
     {
       "stepNumber": 3,
-      "description": "Turn your head to the right and hold the pose for 30 seconds to 1 minute."
+      "description": "Turn your head to the left and hold the pose for 30 seconds to 1 minute."
     },
     {
       "stepNumber": 4,
@@ -47,9 +50,7 @@
       "notes": "Record the comfortable hold duration without forcing the range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -57,15 +58,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T20:09:27.182Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T20:09:27.182Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

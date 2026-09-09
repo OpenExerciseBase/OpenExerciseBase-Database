@@ -8,7 +8,11 @@
     "improved_cardiorespiratory_endurance"
   ],
   "bodyParts": [
-    "full_body"
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves",
+    "core"
   ],
   "equipment": [],
   "location": [
@@ -18,15 +22,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand with your legs shouder-width apart."
+      "description": "Stand tall with your feet about hip-width apart and your arms relaxed at your sides. Keep your chest lifted and brace your core lightly."
     },
     {
       "stepNumber": 2,
-      "description": "Lean forward slightly and begin to jog in place, then slowly start kicking your heels higher until you touch your butt with each step."
+      "description": "Start jogging softly in place on the balls of your feet. Bend one knee to bring your heel toward the same-side glute."
     },
     {
       "stepNumber": 3,
-      "description": "Swing your arms at your side to help with the tempo and increase the speed to wherever you feel comfortable."
+      "description": "Lower your foot softly as the opposite heel lifts toward your glute. Continue alternating sides in a quick, even rhythm. Swing your arms naturally like you would during an easy run and gradually increase the speed to a comfortable pace."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Maintain an upright posture and a controlled rhythm for the target duration. Focus on soft, quiet landings and consistent movement."
     }
   ],
   "performanceMetrics": [
@@ -36,9 +44,7 @@
       "notes": "Record the duration completed at an individually appropriate intensity."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -46,15 +52,24 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T13:39:50.849Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T13:39:50.849Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [
+    "Keep your knees pointing mostly downward rather than driving them forward.",
+    "Do not force your heels to touch your glutes if this causes you to arch your back.",
+    "Use shorter intervals if your foot contacts become sloppy or your technique deteriorates."
+  ],
+  "variations": [],
+  "relationshipSuggestions": []
 }

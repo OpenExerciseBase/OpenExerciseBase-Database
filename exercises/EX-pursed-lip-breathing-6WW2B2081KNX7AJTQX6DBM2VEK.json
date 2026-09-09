@@ -20,19 +20,23 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit upright with shoulders relaxed."
+      "description": "Sit comfortably on the floor or in a chair, depending on your preference. Maintain an upright and relaxed posture, with your neck and shoulders relaxed throughout the exercise. "
     },
     {
       "stepNumber": 2,
-      "description": "Inhale gently through the nose."
+      "description": "Inhale gently through your nose with your mouth closed. Breathe in slowly and naturally for about two seconds. There is no need to take a deep breath. Allow your belly to gently expand as you inhale."
     },
     {
       "stepNumber": 3,
-      "description": "Exhale slowly through softly pursed lips."
+      "description": "Exhale slowly through gently pursed lips, as if you were blowing on a hot drink or gently whistling. Breathe out slowly and steadily for four or more seconds. Allow your belly to gently draw back toward your spine as you exhale."
     },
     {
       "stepNumber": 4,
       "description": "Return to normal breathing whenever needed."
+    },
+    {
+      "stepNumber": 5,
+      "description": "TIPS: \nPursed-lip breathing may feel awkward or uncomfortable at first. With regular practice, it gets easier. These tips can help, too:\n\n- Try putting your hands on your belly to feel it moving in and out as you breathe.\n- Always breathe out for longer than you breathe in.\n- Breathe slowly and easily — in and out — until you’re able to control your breathing.\n- Don’t force the air out of your lungs."
     }
   ],
   "performanceMetrics": [
@@ -47,14 +51,7 @@
       "notes": "Record a comfortable breathing rate without prescribing a universal norm."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Pursed-Lip Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -62,17 +59,28 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-24T12:52:56.772Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-24T12:52:56.772Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
-    "Avoid forceful exhalation."
-  ]
+    "Avoid forceful exhalation.",
+    "In Step 5, I have included some tips for the exercise. It would be useful to add a sort of ‘Tips’ box to the exercises, where tips such as those described in Step 5 could be included."
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Pursed-Lip Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationshipSuggestions": []
 }

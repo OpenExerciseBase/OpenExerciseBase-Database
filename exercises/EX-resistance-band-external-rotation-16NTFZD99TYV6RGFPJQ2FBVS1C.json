@@ -16,7 +16,8 @@
     "resistance_band"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -25,14 +26,18 @@
     },
     {
       "stepNumber": 2,
-      "description": "Hold the band with the elbow bent and close to the side."
+      "description": "Position your body sideways in relation to the anchoring point (torso parallel to the band)"
     },
     {
       "stepNumber": 3,
-      "description": "Rotate the forearm outward while keeping the upper arm still."
+      "description": "Hold the band with the elbow bent at a 90º angle and close to the side."
     },
     {
       "stepNumber": 4,
+      "description": "Rotate the forearm outward while keeping the upper arm still."
+    },
+    {
+      "stepNumber": 5,
       "description": "Return slowly without letting the shoulder roll forward."
     }
   ],
@@ -42,6 +47,30 @@
       "unit": "repetitions",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T09:24:10.211Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T09:24:10.211Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep the elbow close to the side."
   ],
   "variations": [
     {
@@ -53,26 +82,5 @@
       "variationDescription": "Resistance-Band External Rotation — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Keep the elbow close to the side."
-  ]
+  "relationshipSuggestions": []
 }

@@ -22,7 +22,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Adjust the seat and sit with the back supported."
+      "description": "Adjust the seat to a point where the handles ar aligned with the mid part of your chest and sit with the back supported."
     },
     {
       "stepNumber": 2,
@@ -30,10 +30,14 @@
     },
     {
       "stepNumber": 3,
-      "description": "Press forward smoothly without shrugging."
+      "description": "Pinch you shoulders down and together throughout the movement."
     },
     {
       "stepNumber": 4,
+      "description": "Press forward smoothly without shrugging the soulders."
+    },
+    {
+      "stepNumber": 5,
       "description": "Return the handles slowly until a comfortable stretch is felt."
     }
   ],
@@ -49,6 +53,30 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-03T10:26:37.299Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-03T10:26:37.299Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Adjust the seat so handles align comfortably with the chest."
+  ],
   "variations": [
     {
       "id": "",
@@ -57,28 +85,15 @@
     {
       "id": "",
       "variationDescription": "Seated Chest Press Machine — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    },
+    {
+      "id": "",
+      "variationDescription": "Neutral grip chest press machine"
+    },
+    {
+      "id": "",
+      "variationDescription": "Incline chest press machine"
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Adjust the seat so handles align comfortably with the chest."
-  ]
+  "relationshipSuggestions": []
 }

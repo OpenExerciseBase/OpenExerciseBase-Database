@@ -17,7 +17,8 @@
     "wall"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -30,7 +31,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Move only as far as the arch and heel stay controlled."
+      "description": "Move only as far as the heel stays at the ground."
     },
     {
       "stepNumber": 4,
@@ -46,17 +47,10 @@
     {
       "type": "range_of_motion",
       "unit": "degrees",
-      "notes": "Record range only when measured consistently; do not force end range."
-    }
-  ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Knee-to-Wall Ankle Mobility — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      "notes": "Record range only when measured consistently."
     }
   ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -64,17 +58,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-19T08:31:53.256Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-19T08:31:53.256Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Move the knee forward while keeping the heel down."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Knee-to-Wall Ankle Mobility — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

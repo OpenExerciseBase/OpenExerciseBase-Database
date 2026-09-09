@@ -10,7 +10,8 @@
   ],
   "bodyParts": [
     "core",
-    "shoulders"
+    "shoulders",
+    "chest"
   ],
   "equipment": [
     "resistance_band"
@@ -22,7 +23,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand side-on to a securely anchored band and hold it at the chest."
+      "description": "Stand side-on to a securely anchored band and hold it with both hands at the chest."
     },
     {
       "stepNumber": 2,
@@ -34,7 +35,7 @@
     },
     {
       "stepNumber": 4,
-      "description": "Return the hands to the chest and repeat before changing sides."
+      "description": "Return the hands to the chest and repeat."
     }
   ],
   "performanceMetrics": [
@@ -43,6 +44,30 @@
       "unit": "repetitions",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-25T08:43:03.260Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-25T08:43:03.260Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Anchor the band securely at chest height."
   ],
   "variations": [
     {
@@ -54,26 +79,5 @@
       "variationDescription": "Pallof Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Anchor the band securely at chest height."
-  ]
+  "relationshipSuggestions": []
 }

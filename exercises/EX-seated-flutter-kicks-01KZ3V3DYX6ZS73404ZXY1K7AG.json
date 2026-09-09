@@ -15,32 +15,27 @@
     "chair"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit in your chair with your legs extneded out in front of you."
+      "description": "Sit in your chair with your legs extended out in front of you."
     },
     {
       "stepNumber": 2,
-      "description": "Lift one foot off the ground and pause for a moment before returning it to the ground while switching feet."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Repeat on both sides."
+      "description": "Lift both feet off the ground and alternate them in a fast movement for a given duration or as long as possible."
     }
   ],
   "performanceMetrics": [
     {
-      "type": "repetitions",
-      "unit": "repetitions",
-      "notes": "Count repetitions completed with controlled technique."
+      "type": "duration",
+      "unit": "time spend",
+      "notes": "Set a timer or take the time while performing the exercise"
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -48,15 +43,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-18T16:53:03.675Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-18T16:53:03.675Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

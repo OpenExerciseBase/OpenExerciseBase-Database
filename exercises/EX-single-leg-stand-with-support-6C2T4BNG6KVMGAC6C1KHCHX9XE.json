@@ -41,19 +41,12 @@
   ],
   "performanceMetrics": [
     {
-      "type": "balance_time",
+      "type": "duration",
       "unit": "seconds",
       "notes": "Record time maintained before using support or changing foot position."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Single-Leg Stand with Support — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -61,17 +54,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T08:25:46.319Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T08:25:46.319Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep one or both hands near support."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Single-Leg Stand with Support — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+    }
+  ],
+  "relationshipSuggestions": []
 }

@@ -11,7 +11,9 @@
     "core",
     "hip_flexors"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -27,7 +29,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Stay lifted and extend your arms by your sides, slowly move from side to side as you tap your ankles with the corresponding hand."
+      "description": "Stay lifted and extend your arms by your sides, slowly moving from side to side to tap the outside part of your ankles with the corresponding hand while keeping your chin lifted off your chest."
     },
     {
       "stepNumber": 4,
@@ -41,9 +43,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -51,15 +51,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T13:56:21.681Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T13:56:21.681Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

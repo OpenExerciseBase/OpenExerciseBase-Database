@@ -8,7 +8,10 @@
   "exerciseEffects": [
     "improved_balance",
     "improved_coordination",
-    "improved_joint_mobility"
+    "improved_joint_mobility",
+    "improved_posture",
+    "stretch_muscle",
+    "upper_back"
   ],
   "bodyParts": [
     "hips",
@@ -25,7 +28,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Start in a standing forward bend and, as you inhale, step your right leg straight back."
+      "description": "Start in a standing forward bend and, as you inhale, step your right leg straight back, keeping the right foot pointing forward."
     },
     {
       "stepNumber": 2,
@@ -51,9 +54,7 @@
       "notes": "Record the comfortable hold duration without forcing the range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -61,15 +62,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T21:57:51.952Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T21:57:51.952Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

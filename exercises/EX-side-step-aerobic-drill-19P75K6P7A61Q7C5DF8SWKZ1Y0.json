@@ -12,7 +12,9 @@
   "bodyParts": [
     "outer_hips",
     "glutes",
-    "calves"
+    "calves",
+    "core",
+    "quadriceps"
   ],
   "equipment": [],
   "location": [
@@ -49,14 +51,7 @@
       "notes": "Record average movement or step cadence."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Side-Step Aerobic Drill — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -64,17 +59,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T09:27:37.688Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T09:27:37.688Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep steps controlled and the path clear."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Side-Step Aerobic Drill — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

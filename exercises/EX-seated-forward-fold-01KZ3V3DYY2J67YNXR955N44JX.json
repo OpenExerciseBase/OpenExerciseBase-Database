@@ -2,8 +2,7 @@
   "id": "EX-seated-forward-fold-01KZ3V3DYY2J67YNXR955N44JX",
   "name": "Seated Forward Fold",
   "categories": [
-    "flexibility_and_mobility",
-    "balance_and_coordination"
+    "flexibility_and_mobility"
   ],
   "exerciseEffects": [
     "improved_balance",
@@ -20,12 +19,13 @@
     "chair"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit on your chair with your feet on the floor and arms by your sides."
+      "description": "Sit on a chair with your feet on the floor and arms by your sides."
     },
     {
       "stepNumber": 2,
@@ -33,7 +33,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Keeping your leg straight, slowly bend forwards over your bent knee."
+      "description": "Keeping your leg straight, slowly bend forward."
     },
     {
       "stepNumber": 4,
@@ -51,9 +51,7 @@
       "notes": "Record the comfortable hold duration without forcing the range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -61,15 +59,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T06:33:56.289Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T06:33:56.289Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

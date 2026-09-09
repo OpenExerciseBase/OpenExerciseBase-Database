@@ -10,8 +10,9 @@
   ],
   "bodyParts": [
     "diaphragm",
-    "chest",
-    "upper_back"
+    "upper_back",
+    "core",
+    "chest"
   ],
   "equipment": [
     "chair"
@@ -50,14 +51,7 @@
       "notes": "Record a comfortable breathing rate without prescribing a universal norm."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Seated Side-Rib Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -65,17 +59,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T09:22:55.849Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T09:22:55.849Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Place hands lightly on the lower ribs without pressing."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Seated Side-Rib Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationshipSuggestions": []
 }

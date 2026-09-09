@@ -3,7 +3,8 @@
   "name": "Bird Dog",
   "categories": [
     "strength_and_resistance",
-    "balance_and_coordination"
+    "balance_and_coordination",
+    "flexibility_and_mobility"
   ],
   "exerciseEffects": [
     "improved_core_stability",
@@ -17,7 +18,8 @@
   ],
   "equipment": [],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -26,14 +28,10 @@
     },
     {
       "stepNumber": 2,
-      "description": "Gently brace and extend one leg backward."
+      "description": "Reach one arm forward and extend the opposite leg backward at the same time, keeping the pelvis level to maintain a continuous horizontal line from your extended hand to your extended foot."
     },
     {
       "stepNumber": 3,
-      "description": "Reach the opposite arm forward while keeping the pelvis level."
-    },
-    {
-      "stepNumber": 4,
       "description": "Return slowly and alternate sides."
     }
   ],
@@ -43,6 +41,30 @@
       "unit": "repetitions",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T14:04:42.464Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T14:04:42.464Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Move one limb at a time if opposite arm-leg reach is difficult."
   ],
   "variations": [
     {
@@ -54,26 +76,5 @@
       "variationDescription": "Bird Dog — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Move one limb at a time if opposite arm-leg reach is difficult."
-  ]
+  "relationshipSuggestions": []
 }

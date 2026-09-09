@@ -3,11 +3,13 @@
   "name": "Outdoor Leisure Cycling",
   "categories": [
     "endurance",
-    "balance_and_coordination"
+    "balance_and_coordination",
+    "strength_and_resistance"
   ],
   "exerciseEffects": [
     "improved_cardiorespiratory_endurance",
-    "improved_coordination"
+    "improved_coordination",
+    "increased_heart_rate"
   ],
   "bodyParts": [
     "quadriceps",
@@ -20,6 +22,7 @@
     "helmet"
   ],
   "location": [
+    "indoor",
     "outdoor"
   ],
   "instructions": [
@@ -37,7 +40,7 @@
     },
     {
       "stepNumber": 4,
-      "description": "Slow early and stop in a safe location."
+      "description": "Brake smoothly with both hands ahead of time, bringing one foot to the ground as you stop."
     }
   ],
   "performanceMetrics": [
@@ -57,14 +60,7 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Outdoor Leisure Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -72,17 +68,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T15:16:19.178Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T15:16:19.178Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Use appropriate safety equipment and a route suited to skill level."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Outdoor Leisure Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

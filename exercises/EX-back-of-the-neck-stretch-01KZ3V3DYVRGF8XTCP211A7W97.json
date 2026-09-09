@@ -15,7 +15,9 @@
   "bodyParts": [
     "neck"
   ],
-  "equipment": [],
+  "equipment": [
+    "chair"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -43,7 +45,7 @@
     },
     {
       "stepNumber": 6,
-      "description": "Now bend your head forward while gently pulling your hands until you feel your chin on your chest."
+      "description": "Now gently pull with your hands until you feel a slight stretch in your neck."
     },
     {
       "stepNumber": 7,
@@ -51,7 +53,7 @@
     },
     {
       "stepNumber": 8,
-      "description": "Feel and hold the stretch for 30 seconds."
+      "description": "Feel and hold the stretch for a given time."
     }
   ],
   "performanceMetrics": [
@@ -61,9 +63,7 @@
       "notes": "Record the comfortable hold duration without forcing the range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -71,15 +71,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-19T08:51:40.223Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-19T08:51:40.223Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

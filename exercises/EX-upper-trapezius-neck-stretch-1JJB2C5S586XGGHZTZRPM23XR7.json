@@ -21,19 +21,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit or stand tall with shoulders relaxed."
+      "description": "Sit or stand tall with your spine in a neutral position. Keep your shoulders relaxed and your arms resting comfortably at your sides."
     },
     {
       "stepNumber": 2,
-      "description": "Tilt one ear gently toward the same-side shoulder."
+      "description": "Slowly tilt your head to one side, bringing your ear gently toward the same-side shoulder. Keep both shoulders relaxed and down."
     },
     {
       "stepNumber": 3,
-      "description": "Keep the chin facing forward and breathe comfortably."
+      "description": "Keep your chin facing forward without rotating or tipping your head. Hold the stretch in a comfortable position and breathe slowly and steadily."
     },
     {
       "stepNumber": 4,
-      "description": "Return to center and repeat on the other side."
+      "description": "Slowly return your head to the center without making any sudden movements. Repeat the stretch on the opposite side for the designated duration."
     }
   ],
   "performanceMetrics": [
@@ -43,14 +43,7 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Upper-Trapezius Neck Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -58,17 +51,29 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-02T11:52:10.860Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-02T11:52:10.860Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
-    "Use only light head weight; do not pull forcefully."
-  ]
+    "Use only light head weight; do not pull forcefully.",
+    "Breathe naturally and avoid holding your breath.",
+    "You should feel a gentle stretch along the side of your neck and upper shoulder, not sharp or radiating pain."
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Upper-Trapezius Neck Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

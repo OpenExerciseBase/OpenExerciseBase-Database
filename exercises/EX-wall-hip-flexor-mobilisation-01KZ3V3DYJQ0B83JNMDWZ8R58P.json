@@ -1,15 +1,8 @@
 {
   "id": "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
-  "name": "Wall Hip Flexor Mobilisation",
-  "categories": [
-    "flexibility_and_mobility",
-    "balance_and_coordination"
-  ],
-  "exerciseEffects": [
-    "improved_balance",
-    "improved_coordination",
-    "improved_joint_mobility"
-  ],
+  "name": "Wall Hip Flexor Stretch",
+  "categories": [],
+  "exerciseEffects": [],
   "bodyParts": [
     "hip_flexors",
     "hips"
@@ -24,11 +17,11 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Kneel on one leg in front of a wall with your front foot against the wall."
+      "description": "Kneel on one leg with your back against the wall and the front foot a stepforward."
     },
     {
       "stepNumber": 2,
-      "description": "Use your arm to bend the knee of your back leg as much as is comfortable."
+      "description": "Get your back foot on the wall and the knee as close to it as you can."
     },
     {
       "stepNumber": 3,
@@ -41,30 +34,31 @@
   ],
   "performanceMetrics": [
     {
-      "type": "repetitions",
-      "unit": "repetitions",
-      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+      "type": "duration",
+      "unit": "Seconds",
+      "notes": "Monitor the time spent on one side and do the same on the other."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
+    "imageURLs": []
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-31T11:20:05.510Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-31T11:20:05.510Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

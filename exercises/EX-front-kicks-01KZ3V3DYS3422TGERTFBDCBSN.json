@@ -8,7 +8,8 @@
     "improved_cardiorespiratory_endurance"
   ],
   "bodyParts": [
-    "full_body"
+    "full_body",
+    "hip_flexors"
   ],
   "equipment": [],
   "location": [
@@ -22,14 +23,18 @@
     },
     {
       "stepNumber": 2,
-      "description": "Lift one leg as high as you can, in a fast-paced move."
+      "description": "Lift one leg as high as you can in a fast, controlled movement, keeping the foot pointed upward and avoiding excessive extension of both the kicking and supporting leg."
     },
     {
       "stepNumber": 3,
-      "description": "Return to the starting position and repeat with the other leg."
+      "description": "Use the arms actively to maintain balance and stability."
     },
     {
       "stepNumber": 4,
+      "description": "Return to the starting position and repeat with the other leg."
+    },
+    {
+      "stepNumber": 5,
       "description": "Continue alternating legs until the set is complete."
     }
   ],
@@ -40,9 +45,7 @@
       "notes": "Record the duration completed at an individually appropriate intensity."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -50,15 +53,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T18:50:15.449Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T18:50:15.449Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

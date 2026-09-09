@@ -5,12 +5,15 @@
     "strength_and_resistance"
   ],
   "exerciseEffects": [
-    "increased_muscle_strength"
+    "increased_muscle_strength",
+    "improved_posture"
   ],
   "bodyParts": [
     "quadriceps",
     "glutes",
-    "hips"
+    "hips",
+    "lower_back",
+    "hamstrings"
   ],
   "equipment": [],
   "location": [
@@ -20,19 +23,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand up straight with your feet hip-width apart and lift your left leg in front of you."
+      "description": "Stand up straight with your feet hip-width apart and lift your right leg in front of you."
     },
     {
       "stepNumber": 2,
-      "description": "Start bending your right knee and slowly lower your hips back."
+      "description": "Bend your supporting knee and slowly lower your hips back while maintaining proper posture and keeping the extended leg parallel to the floor."
     },
     {
       "stepNumber": 3,
-      "description": "Push through the right heel to return to the starting position."
+      "description": "Push through the left heel to return to the starting position."
     },
     {
       "stepNumber": 4,
-      "description": "Switch to the left side and repeat."
+      "description": "Switch to the right side and repeat."
     }
   ],
   "performanceMetrics": [
@@ -42,9 +45,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -52,15 +53,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T20:33:38.553Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T20:33:38.553Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

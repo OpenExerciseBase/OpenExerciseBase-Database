@@ -7,20 +7,25 @@
   ],
   "exerciseEffects": [
     "improved_core_stability",
-    "improved_coordination"
+    "improved_coordination",
+    "increased_muscle_strength"
   ],
   "bodyParts": [
     "core",
-    "hips"
+    "hips",
+    "hip_flexors"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Lie on the back with hips and knees bent and arms reaching upward."
+      "description": "Lie on your back with your hips and knees bent, lower legs parallel to the floor, and arms reaching upward."
     },
     {
       "stepNumber": 2,
@@ -28,7 +33,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Lower the opposite arm and leg only as far as trunk position can be maintained."
+      "description": "Lower the opposite arm and leg only as far as trunk position can be maintained, keeping a straight line from the hand to the foot."
     },
     {
       "stepNumber": 4,
@@ -42,6 +47,30 @@
       "notes": "Count technically controlled repetitions."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T21:30:10.066Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T21:30:10.066Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Reduce limb reach if the lower back lifts excessively."
+  ],
   "variations": [
     {
       "id": "",
@@ -52,26 +81,5 @@
       "variationDescription": "Dead Bug — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Reduce limb reach if the lower back lifts excessively."
-  ]
+  "relationshipSuggestions": []
 }

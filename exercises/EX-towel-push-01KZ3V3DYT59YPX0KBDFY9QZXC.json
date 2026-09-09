@@ -9,9 +9,7 @@
   ],
   "bodyParts": [
     "core",
-    "shoulders",
-    "chest",
-    "triceps"
+    "shoulders"
   ],
   "equipment": [
     "towel"
@@ -27,11 +25,11 @@
     },
     {
       "stepNumber": 2,
-      "description": "Keeping your core tight and engaged, push the towel and extend your body forwards."
+      "description": "Keeping your core tight and engaged, slide the towel and extend your body forwards."
     },
     {
       "stepNumber": 3,
-      "description": "Move forward as far as you can with control, then come back to center and repeat."
+      "description": "Extend your body as far as you can with control, then come back to center and repeat."
     }
   ],
   "performanceMetrics": [
@@ -41,9 +39,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -51,15 +47,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T15:06:41.961Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T15:06:41.961Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

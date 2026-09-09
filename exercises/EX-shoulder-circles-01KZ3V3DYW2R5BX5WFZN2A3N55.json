@@ -3,7 +3,6 @@
   "name": "Shoulder Circles",
   "categories": [
     "flexibility_and_mobility",
-    "balance_and_coordination",
     "relaxation_and_breathing"
   ],
   "exerciseEffects": [
@@ -35,11 +34,11 @@
     },
     {
       "stepNumber": 4,
-      "description": "Let your arms hang loosely by your sides."
+      "description": "Let your shoulders hang loosely by your sides."
     },
     {
       "stepNumber": 5,
-      "description": "Let both shoulders circle backwards at the same time."
+      "description": "Let both arms circle backwards at the same time."
     },
     {
       "stepNumber": 6,
@@ -48,14 +47,12 @@
   ],
   "performanceMetrics": [
     {
-      "type": "duration",
-      "unit": "minutes",
-      "notes": "Record the duration of the comfortable, controlled practice."
+      "type": "repetitions",
+      "unit": null,
+      "notes": "Record the number of repetitions of the comfortable, controlled practice."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -63,15 +60,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T08:06:20.848Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T08:06:20.848Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

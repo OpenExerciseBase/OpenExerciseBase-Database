@@ -23,11 +23,11 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Start in a lunge, rotate your torso to the left, and exhale as you place your right hand on the outside of your left foot."
+      "description": "Start in a lunge, rotate your torso to the left, and exhale as you place your left hand on the inside of your right foot."
     },
     {
       "stepNumber": 2,
-      "description": "Extend your left arm over the top of your head, pointing your fingertips in the same direction as the front toes, and gaze up toward the ceiling."
+      "description": "Extend your right arm over the top of your head, pointing your fingertips in the same direction as the front toes, and gaze up toward the ceiling."
     },
     {
       "stepNumber": 3,
@@ -41,9 +41,7 @@
       "notes": "Record the comfortable hold duration without forcing the range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -51,15 +49,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-25T21:02:05.219Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-25T21:02:05.219Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

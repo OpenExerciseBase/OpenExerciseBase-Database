@@ -13,7 +13,8 @@
   ],
   "equipment": [],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -40,14 +41,7 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Progressive Muscle Relaxation Scan — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -55,17 +49,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T14:24:00.829Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T14:24:00.829Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Use gentle tension rather than maximal contraction."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Progressive Muscle Relaxation Scan — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationshipSuggestions": []
 }

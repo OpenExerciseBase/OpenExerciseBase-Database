@@ -9,7 +9,8 @@
     "increased_muscle_strength",
     "improved_balance",
     "improved_coordination",
-    "improved_core_stability"
+    "improved_core_stability",
+    "stretch_muscle"
   ],
   "bodyParts": [
     "core",
@@ -29,7 +30,7 @@
     },
     {
       "stepNumber": 2,
-      "description": "Engage your core and press through your arms and shoulders to lift your hips up into downward dog."
+      "description": "Engage your core and press through your arms and shoulders to lift your hips up into downward dog, while keeping your head aligned with your arms."
     },
     {
       "stepNumber": 3,
@@ -43,9 +44,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -53,15 +52,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T18:32:24.693Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T18:32:24.693Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

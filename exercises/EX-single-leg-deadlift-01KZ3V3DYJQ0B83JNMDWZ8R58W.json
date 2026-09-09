@@ -2,10 +2,16 @@
   "id": "EX-single-leg-deadlift-01KZ3V3DYJQ0B83JNMDWZ8R58W",
   "name": "Single-Leg Deadlift",
   "categories": [
-    "strength_and_resistance"
+    "strength_and_resistance",
+    "flexibility_and_mobility",
+    "balance_and_coordination"
   ],
   "exerciseEffects": [
-    "increased_muscle_strength"
+    "increased_muscle_strength",
+    "improved_range_of_motion",
+    "improved_body_balance",
+    "improved_posture",
+    "stretch_muscle"
   ],
   "bodyParts": [
     "glutes",
@@ -21,15 +27,15 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Set up in a standing position with your hands at your side and thumbs facing outward."
+      "description": "Set up in a standing position with your hands at your side and thumbs facing forward."
     },
     {
       "stepNumber": 2,
-      "description": "Keep a slight bend in the plant leg and hinge forward from the hip while keeping the chest tall and thumbs pointing up."
+      "description": "Keep a slight bend in the plant leg and hinge forward from the hip while keeping the chest tall and your back in a neutral position."
     },
     {
       "stepNumber": 3,
-      "description": "Hinge to 90 degrees (if possible) and allow the hamstrings to stretch while keeping the head neutral."
+      "description": "Hinge as low as you can and allow the hamstrings to stretch while keeping the head neutral."
     }
   ],
   "performanceMetrics": [
@@ -39,9 +45,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -49,15 +53,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T07:02:05.259Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T07:02:05.259Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

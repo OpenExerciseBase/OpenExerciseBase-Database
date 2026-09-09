@@ -10,7 +10,8 @@
   ],
   "bodyParts": [
     "glutes",
-    "outer_hips"
+    "outer_hips",
+    "inner_thighs"
   ],
   "equipment": [
     "chair"
@@ -30,7 +31,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Hinge forward slightly until a mild glute stretch is felt."
+      "description": "Hinge forward slightly by flexing the trunk until a mild stretch is felt in the glutes."
     },
     {
       "stepNumber": 4,
@@ -44,14 +45,7 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Figure-Four Glute Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -59,17 +53,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T22:11:06.412Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T22:11:06.412Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep the movement gentle and the chair stable."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Figure-Four Glute Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

@@ -10,19 +10,20 @@
   ],
   "bodyParts": [
     "shoulders",
-    "upper_back",
-    "chest"
+    "chest",
+    "upper_back"
   ],
   "equipment": [
     "wall"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand with the back near a wall and elbows bent."
+      "description": "Stand with the back at a wall, elbows bent and your forearms and hands facing dorsal against the wall."
     },
     {
       "stepNumber": 2,
@@ -49,14 +50,7 @@
       "notes": "Record range only when measured consistently; do not force end range."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Wall Shoulder Slide — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -64,17 +58,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T08:20:53.143Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T08:20:53.143Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Only slide as high as comfortable."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Wall Shoulder Slide — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

@@ -22,7 +22,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit with thighs secured and grasp the bar comfortably."
+      "description": "Sit with thighs anchored to the machine and grasp the bar comfortably using a pronated grip."
     },
     {
       "stepNumber": 2,
@@ -30,7 +30,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Pull the bar toward the upper chest while bringing elbows down."
+      "description": "Pull the bar toward the upper chest while bringing elbows down an keeping your chest up."
     },
     {
       "stepNumber": 4,
@@ -49,6 +49,30 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T11:49:09.450Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T11:49:09.450Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Pull toward the upper chest without forcing the shoulders."
+  ],
   "variations": [
     {
       "id": "",
@@ -59,26 +83,5 @@
       "variationDescription": "Lat Pulldown — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Pull toward the upper chest without forcing the shoulders."
-  ]
+  "relationshipSuggestions": []
 }

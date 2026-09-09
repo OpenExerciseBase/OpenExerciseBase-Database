@@ -8,13 +8,15 @@
   "exerciseEffects": [
     "improved_balance",
     "improved_coordination",
-    "improved_joint_mobility"
+    "improved_joint_mobility",
+    "improved_range_of_motion"
   ],
   "bodyParts": [
-    "chest",
     "lower_back",
-    "upper_back",
-    "ankles"
+    "ankles",
+    "glutes",
+    "hamstrings",
+    "hips"
   ],
   "equipment": [],
   "location": [
@@ -24,7 +26,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "In a standing position, quarter squat and position one leg in a figure four position."
+      "description": "In a standing position, get on one leg and position other in a figure four position."
     },
     {
       "stepNumber": 2,
@@ -40,7 +42,7 @@
     },
     {
       "stepNumber": 5,
-      "description": "Repeat the process on the opposite leg for the desired number of repetitions."
+      "description": "Step forward and repeat the process on the opposite leg for the desired number of repetitions."
     }
   ],
   "performanceMetrics": [
@@ -50,9 +52,7 @@
       "notes": "Count controlled movement repetitions through a comfortable range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -60,15 +60,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T07:47:37.638Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T07:47:37.638Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

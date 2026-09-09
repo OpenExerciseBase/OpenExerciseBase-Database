@@ -16,12 +16,13 @@
     "foam_roller"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Place a foam roller across the upper back and support the head."
+      "description": "Place a foam roller across the upper back and support the head with your hands."
     },
     {
       "stepNumber": 2,
@@ -48,14 +49,7 @@
       "notes": "Record range only when measured consistently; do not force end range."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Foam-Roller Thoracic Extension — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -63,17 +57,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-18T16:54:16.040Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-18T16:54:16.040Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Support the head and avoid rolling onto the neck or lower back."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Foam-Roller Thoracic Extension — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

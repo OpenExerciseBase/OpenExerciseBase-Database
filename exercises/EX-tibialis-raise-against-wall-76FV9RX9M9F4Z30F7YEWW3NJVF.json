@@ -1,6 +1,6 @@
 {
   "id": "EX-tibialis-raise-against-wall-76FV9RX9M9F4Z30F7YEWW3NJVF",
-  "name": "Tibialis Raise Against Wall",
+  "name": "Standing Tibialis Raise (Against Wall)",
   "categories": [
     "strength_and_resistance"
   ],
@@ -17,24 +17,29 @@
     "wall"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand with the back against a wall and feet slightly forward."
+      "description": "For safety, perform the exercise either barefoot or while wearing supportive, well-fitting shoes with a firm grip. Avoid loose slippers or socks without sufficient traction."
     },
     {
       "stepNumber": 2,
-      "description": "Keep the heels down and lift the toes toward the shins."
+      "description": "Stand with your back facing a wall, approximately 20–30 cm (8–12 inches) away from it. Lean your back comfortably against the wall and maintain slight tension in your core. Keep your legs straight and your heels firmly on the ground."
     },
     {
       "stepNumber": 3,
-      "description": "Pause while maintaining balance."
+      "description": "Keeping your heels down, lift your toes and the front of your feet as high as possible toward your shins. Maintain your balance and avoid leaning or rocking your body."
     },
     {
       "stepNumber": 4,
-      "description": "Lower the toes slowly without rocking the body."
+      "description": "Pause at the top of the movement for 2 seconds, then slowly lower your toes back toward the floor in a controlled manner. Pause for 2 seconds at the bottom before starting the next repetition."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Aim to complete 25 consecutive repetitions while maintaining a stable posture, controlled movement, and full range of motion throughout."
     }
   ],
   "performanceMetrics": [
@@ -43,6 +48,32 @@
       "unit": "repetitions",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-24T13:43:22.598Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-24T13:43:22.598Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Stand closer to the wall to reduce difficulty.",
+    "The further from the wall your feet are, the tougher these will be. Also the higher your heel is, the more difficult these become.",
+    "The Tibialis Raise is an exercise that strengthens the tibialis anterior muscle. It can help improve ankle stability, running strength, and reduce the risk of shin-related issues.  The tibialis anterior generally does not need to be trained separately, but if you experience shin problems, have unstable feet, or participate in sports that involve running or jumping, it can be a useful addition to your training."
   ],
   "variations": [
     {
@@ -54,26 +85,5 @@
       "variationDescription": "Tibialis Raise Against Wall — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Stand closer to the wall to reduce difficulty."
-  ]
+  "relationshipSuggestions": []
 }

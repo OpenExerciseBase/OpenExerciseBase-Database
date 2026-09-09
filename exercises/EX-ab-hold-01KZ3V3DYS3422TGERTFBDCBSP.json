@@ -12,7 +12,9 @@
     "core",
     "hip_flexors"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -24,7 +26,7 @@
     },
     {
       "stepNumber": 2,
-      "description": "Lift your upper back and legs off the mat, keeping your core engaged."
+      "description": "Lift your upper back and legs off the mat, keeping your core engaged and your lower back in contact with the mat."
     },
     {
       "stepNumber": 3,
@@ -38,9 +40,7 @@
       "notes": "Record the time the position or isometric effort is maintained with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -48,15 +48,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T11:51:44.375Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T11:51:44.375Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

@@ -30,7 +30,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Pull the handle toward the lower ribs while drawing the elbows back."
+      "description": "Pull the handle toward the lower ribs while drawing the elbows back close to the torso. Squeeze your shoulder blades tightly together at the end of the row, as if pinching a tennis ball between them."
     },
     {
       "stepNumber": 4,
@@ -49,6 +49,30 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T13:50:02.939Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T13:50:02.939Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Avoid leaning far backward to complete the pull."
+  ],
   "variations": [
     {
       "id": "",
@@ -59,26 +83,5 @@
       "variationDescription": "Seated Cable Row — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Avoid leaning far backward to complete the pull."
-  ]
+  "relationshipSuggestions": []
 }

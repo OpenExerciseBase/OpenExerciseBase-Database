@@ -1,6 +1,6 @@
 {
   "id": "EX-supine-hamstring-stretch-with-band-4H0R49CJ8KKJB37HJMF022G0QV",
-  "name": "Supine Hamstring Stretch with Band",
+  "name": "Supine Hamstring Stretch",
   "categories": [
     "flexibility_and_mobility"
   ],
@@ -13,10 +13,12 @@
     "calves"
   ],
   "equipment": [
-    "resistance_band"
+    "resistance_band",
+    "yoga mat"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -25,7 +27,7 @@
     },
     {
       "stepNumber": 2,
-      "description": "Raise the leg while holding the band with both hands."
+      "description": "Raise one leg while holding the resistance band with both hands, keeping the opposite leg extended on the floor."
     },
     {
       "stepNumber": 3,
@@ -48,14 +50,7 @@
       "notes": "Record range only when measured consistently; do not force end range."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Supine Hamstring Stretch with Band — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -63,17 +58,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T21:41:49.160Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T21:41:49.160Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep the knee slightly bent if needed."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Supine Hamstring Stretch with Band — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

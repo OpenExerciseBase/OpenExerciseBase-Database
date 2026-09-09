@@ -15,14 +15,17 @@
     "core",
     "hips"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Lie on the back with both knees bent, then lift one foot."
+      "description": "Lie on the back with both knees bent, then extend one foot and lift slightly off the floor."
     },
     {
       "stepNumber": 2,
@@ -40,9 +43,33 @@
   "performanceMetrics": [
     {
       "type": "repetitions",
-      "unit": "repetitions",
+      "unit": "Repetition",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-13T06:37:30.253Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-13T06:37:30.253Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Regress to the bilateral bridge if pelvic control is difficult."
   ],
   "variations": [
     {
@@ -58,26 +85,5 @@
       "variationDescription": "Single-Leg Glute Bridge — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Regress to the bilateral bridge if pelvic control is difficult."
-  ]
+  "relationshipSuggestions": []
 }

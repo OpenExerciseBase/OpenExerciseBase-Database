@@ -13,9 +13,12 @@
     "shoulders",
     "outer_hips"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -24,11 +27,11 @@
     },
     {
       "stepNumber": 2,
-      "description": "Press the forearm and lower knee into the floor."
+      "description": "Press the forearm and knee into the floor."
     },
     {
       "stepNumber": 3,
-      "description": "Lift the hips until the trunk forms a controlled line."
+      "description": "Lift the hips until the trunk forms a straight line and hold."
     },
     {
       "stepNumber": 4,
@@ -42,6 +45,30 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-18T16:56:01.433Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-18T16:56:01.433Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Stop before shoulder or trunk position deteriorates."
+  ],
   "variations": [
     {
       "id": "",
@@ -52,26 +79,5 @@
       "variationDescription": "Side Plank from Knees — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Stop before shoulder or trunk position deteriorates."
-  ]
+  "relationshipSuggestions": []
 }

@@ -2,7 +2,7 @@
   "id": "EX-ankle-alphabets-01KZ3V3DYX6ZS73404ZXY1K7AM",
   "name": "Ankle Alphabets",
   "categories": [
-    "strength_and_resistance"
+    "flexibility_and_mobility"
   ],
   "exerciseEffects": [
     "increased_muscle_strength"
@@ -36,14 +36,12 @@
   ],
   "performanceMetrics": [
     {
-      "type": "repetitions",
-      "unit": "repetitions",
-      "notes": "Count repetitions completed with controlled technique."
+      "type": "duration",
+      "unit": "seconds",
+      "notes": null
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -51,15 +49,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T06:52:10.286Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T06:52:10.286Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

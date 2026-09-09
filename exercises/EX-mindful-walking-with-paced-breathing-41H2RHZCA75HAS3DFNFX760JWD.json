@@ -54,14 +54,7 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Mindful Walking with Paced Breathing — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -69,17 +62,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T20:57:46.010Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T20:57:46.010Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep the pace easy and breathing natural."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Mindful Walking with Paced Breathing — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

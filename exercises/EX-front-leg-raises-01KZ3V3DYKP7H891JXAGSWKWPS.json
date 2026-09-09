@@ -20,11 +20,11 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Start in a relaxed position with your feet shoulder-width apart and your hands on your hips."
+      "description": "Start in a relaxed position with your feet shoulder-width apart and your hands on your hips. Keep your shoulders relaxed and your pelvis in a neutral position, avoiding an exaggerated arch in your lower back. Imagine your pelvis as a bowl of water and keep it level so the water doesn’t spill forward or backward."
     },
     {
       "stepNumber": 2,
-      "description": "Raise your leg up into the air, keeping it straight with only a slight bend in the knee."
+      "description": "Raise your leg up into the air, keeping it straight with only a slight bend in the knee. Engage your core and maintain controlled tension throughout your trunk, allowing your torso to naturally contribute to the movement while keeping your posture stable and controlled."
     },
     {
       "stepNumber": 3,
@@ -38,9 +38,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -48,15 +46,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-24T12:31:36.139Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-24T12:31:36.139Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

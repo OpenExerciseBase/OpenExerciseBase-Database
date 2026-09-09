@@ -14,28 +14,29 @@
     "chair"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Sit upright and place the palm of your left hand against the left side of your head."
+      "description": "Sit upright in a comfortable position with your shoulders relaxed and down. Place the palm of your left hand against the left side of your head."
     },
     {
       "stepNumber": 2,
-      "description": "Push your hand against the side of your head."
+      "description": "Gently press your head into your hand while simultaneously pressing your hand against your head. Create enough tension to resist the movement without actually moving your head."
     },
     {
       "stepNumber": 3,
-      "description": "Keep your head still by resisting the movement."
+      "description": "Keep your head and neck in a neutral position and maintain a steady, upright posture. Keep your shoulders relaxed and down throughout the exercise—do not shrug or lift them toward your ears."
     },
     {
       "stepNumber": 4,
-      "description": "Hold the tension for at least 5 seconds."
+      "description": "Hold the isometric tension for at least 5 seconds while breathing normally. Keep the pressure controlled and avoid straining your neck or shoulders."
     },
     {
       "stepNumber": 5,
-      "description": "Change sides."
+      "description": "Slowly release the tension and repeat the exercise on the opposite side, maintaining the same controlled position."
     }
   ],
   "performanceMetrics": [
@@ -45,9 +46,7 @@
       "notes": "Record the time the position or isometric effort is maintained with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -55,15 +54,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-24T13:29:32.823Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-24T13:29:32.823Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

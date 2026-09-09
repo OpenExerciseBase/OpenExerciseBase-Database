@@ -7,18 +7,18 @@
   ],
   "exerciseEffects": [
     "increased_muscle_strength",
-    "improved_cardiorespiratory_endurance"
+    "improved_cardiorespiratory_endurance",
+    "increased_bone_strength"
   ],
   "bodyParts": [
     "quadriceps",
     "glutes",
-    "hips"
+    "calves"
   ],
-  "equipment": [
-    "chair"
-  ],
+  "equipment": [],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -40,14 +40,12 @@
   ],
   "performanceMetrics": [
     {
-      "type": "duration",
-      "unit": "minutes",
-      "notes": "Record the duration completed at an individually appropriate intensity."
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count the technically clean repetitions"
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -55,15 +53,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T07:28:57.493Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T07:28:57.493Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

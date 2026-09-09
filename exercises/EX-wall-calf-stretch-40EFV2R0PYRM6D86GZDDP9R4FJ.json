@@ -13,7 +13,8 @@
     "ankles"
   ],
   "equipment": [
-    "wall"
+    "wall",
+    "railing"
   ],
   "location": [
     "indoor",
@@ -44,14 +45,7 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Wall Calf Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -59,17 +53,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T07:58:59.605Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T07:58:59.605Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep the back heel comfortably grounded."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Wall Calf Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

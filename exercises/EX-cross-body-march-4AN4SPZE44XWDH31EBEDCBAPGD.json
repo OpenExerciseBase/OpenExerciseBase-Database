@@ -1,6 +1,6 @@
 {
   "id": "EX-cross-body-march-4AN4SPZE44XWDH31EBEDCBAPGD",
-  "name": "Cross-Body March",
+  "name": "Standing Cross-Body March",
   "categories": [
     "balance_and_coordination",
     "endurance"
@@ -22,19 +22,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand tall and lift one knee."
+      "description": "Stand tall with your feet about hip-width apart and your arms relaxed at your sides. Keep your chest lifted and brace your core lightly."
     },
     {
       "stepNumber": 2,
-      "description": "Reach the opposite hand toward the raised knee without collapsing the trunk."
+      "description": "Lift one knee toward hip height while reaching the opposite hand across your body toward the raised knee. Keep your torso upright and avoid collapsing forward or sideways."
     },
     {
       "stepNumber": 3,
-      "description": "Lower and repeat on the other side."
+      "description": "Lower your foot back to the floor under control and return your arm to the starting position. Then lift the opposite knee and reach toward it with the other hand."
     },
     {
       "stepNumber": 4,
-      "description": "Continue slowly with a steady rhythm."
+      "description": "Alternate sides in a slow, steady rhythm. Focus on controlled knee lifts, balanced weight shifts, and smooth cross-body movements."
     }
   ],
   "performanceMetrics": [
@@ -49,14 +49,7 @@
       "notes": "Record average movement or step cadence."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Cross-Body March — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -64,17 +57,29 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-02T11:26:44.070Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-02T11:26:44.070Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
-    "Slow the pace or use support if balance is challenged."
-  ]
+    "Slow the pace or use support if balance is challenged.",
+    "Avoid rounding your back or leaning excessively to reach the knee.",
+    "Start slowly to establish the cross-body coordination before increasing the pace."
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Cross-Body March — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

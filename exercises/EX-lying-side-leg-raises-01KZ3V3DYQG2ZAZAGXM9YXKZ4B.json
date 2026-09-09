@@ -12,7 +12,10 @@
     "outer_hips",
     "hips"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat",
+    "ankle weights"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -36,16 +39,14 @@
       "type": "repetitions",
       "unit": "repetitions",
       "notes": "Count repetitions completed with controlled technique."
-    }
-  ],
-  "variations": [
+    },
     {
-      "id": "EX-side-leg-raises-01KZ3V3DYMQ0JFE1ZDQWY74XFB",
-      "variationDescription": "Performs the side leg raise from a standing position."
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "If bodyweight only is too easy"
     }
   ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -53,15 +54,25 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-01T09:16:52.166Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-01T09:16:52.166Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [
+    {
+      "id": "EX-side-leg-raises-01KZ3V3DYMQ0JFE1ZDQWY74XFB",
+      "variationDescription": "Performs the side leg raise from a standing position."
+    }
+  ],
+  "relationshipSuggestions": []
 }

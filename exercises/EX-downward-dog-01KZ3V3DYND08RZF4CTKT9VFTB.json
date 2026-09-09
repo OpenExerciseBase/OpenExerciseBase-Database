@@ -40,7 +40,7 @@
     },
     {
       "stepNumber": 4,
-      "description": "Keep your head down, looking at the floor."
+      "description": "Keep your head down and aligned with your arms, looking toward the floor."
     }
   ],
   "performanceMetrics": [
@@ -50,14 +50,7 @@
       "notes": "Record the duration of the comfortable, controlled practice."
     }
   ],
-  "variations": [
-    {
-      "id": "EX-single-leg-downward-dog-01KZ3V3DYR43D2FTV12ZVQHG1A",
-      "variationDescription": "Raises one leg while maintaining the downward-dog position."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -65,15 +58,25 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-25T21:14:51.639Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-25T21:14:51.639Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [
+    {
+      "id": "EX-single-leg-downward-dog-01KZ3V3DYR43D2FTV12ZVQHG1A",
+      "variationDescription": "Raises one leg while maintaining the downward-dog position."
+    }
+  ],
+  "relationshipSuggestions": []
 }

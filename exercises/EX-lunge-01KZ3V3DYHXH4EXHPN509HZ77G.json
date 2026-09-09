@@ -1,18 +1,9 @@
 {
   "id": "EX-lunge-01KZ3V3DYHXH4EXHPN509HZ77G",
   "name": "Lunge",
-  "categories": [
-    "strength_and_resistance"
-  ],
-  "exerciseEffects": [
-    "increased_muscle_strength"
-  ],
-  "bodyParts": [
-    "hips",
-    "quadriceps",
-    "glutes",
-    "hamstrings"
-  ],
+  "categories": [],
+  "exerciseEffects": [],
+  "bodyParts": [],
   "equipment": [],
   "location": [
     "indoor",
@@ -21,43 +12,34 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Place your feet about hip-width apart and stand up straight."
+      "description": ""
     },
     {
       "stepNumber": 2,
-      "description": "Step forward far enough to maintain comfortable, controlled alignment of the front knee and foot."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Then exhale and push through the heel of the front foot to return to the starting position."
+      "description": ""
     }
   ],
-  "performanceMetrics": [
-    {
-      "type": "repetitions",
-      "unit": "repetitions",
-      "notes": "Count repetitions completed with controlled technique."
-    }
-  ],
-  "variations": [],
+  "performanceMetrics": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
+    "imageURLs": []
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T21:19:57.261Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T21:19:57.261Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

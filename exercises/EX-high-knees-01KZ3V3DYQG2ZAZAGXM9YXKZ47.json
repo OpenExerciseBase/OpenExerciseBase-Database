@@ -5,7 +5,8 @@
     "endurance"
   ],
   "exerciseEffects": [
-    "improved_cardiorespiratory_endurance"
+    "improved_cardiorespiratory_endurance",
+    "increased_heart_rate"
   ],
   "bodyParts": [
     "full_body"
@@ -22,11 +23,11 @@
     },
     {
       "stepNumber": 2,
-      "description": "Jump one knee and then the other up towards your chest, make sure you land softly on the balls of your feet."
+      "description": "Drive one knee up to 90 degrees whileextending the opposite leg and pushing the foot against the ground."
     },
     {
       "stepNumber": 3,
-      "description": "Slowly increase your tempo and use your arms to generate movement."
+      "description": "Slowly increase your tempo and use your arms as counter balance to generate movement."
     }
   ],
   "performanceMetrics": [
@@ -36,9 +37,7 @@
       "notes": "Record the duration completed at an individually appropriate intensity."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -46,15 +45,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T14:18:15.033Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T14:18:15.033Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

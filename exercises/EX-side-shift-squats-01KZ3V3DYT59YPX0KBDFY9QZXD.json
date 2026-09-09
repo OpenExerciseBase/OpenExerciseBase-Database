@@ -1,16 +1,19 @@
 {
   "id": "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
-  "name": "Side Shift Squats",
+  "name": "Cossack Squat",
   "categories": [
-    "strength_and_resistance"
+    "strength_and_resistance",
+    "flexibility_and_mobility"
   ],
   "exerciseEffects": [
-    "increased_muscle_strength"
+    "increased_muscle_strength",
+    "improved_range_of_motion"
   ],
   "bodyParts": [
     "quadriceps",
     "glutes",
-    "hips"
+    "hips",
+    "hamstrings"
   ],
   "equipment": [],
   "location": [
@@ -20,19 +23,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand straight with your feet shoulder-width apart."
+      "description": "Stand straight with your feet slightly wider than shoulder-width-apart,"
     },
     {
       "stepNumber": 2,
-      "description": "Press your hips back and squat."
+      "description": "Press your hips back and squat to one side while keeping your chest up."
     },
     {
       "stepNumber": 3,
-      "description": "Stand up, take a small step to the side, and squat again."
+      "description": "Press with the bent leg throught the floor and get back to the initial position."
     },
     {
       "stepNumber": 4,
-      "description": "Return to the initial position and repeat this side-to-side movement until the set is complete."
+      "description": "Repeat for the other side while keeping the same stance."
     }
   ],
   "performanceMetrics": [
@@ -42,9 +45,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -52,15 +53,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-02T08:00:46.328Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-02T08:00:46.328Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

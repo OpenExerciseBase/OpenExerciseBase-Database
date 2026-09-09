@@ -9,13 +9,16 @@
     "improved_flexibility"
   ],
   "bodyParts": [
-    "upper_back",
     "shoulders",
-    "chest"
+    "chest",
+    "upper_back"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -28,7 +31,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Allow the upper trunk to rotate without forcing the knees apart."
+      "description": "Allow the upper trunk to rotate without forcing the knees apart or lifting them off the floor."
     },
     {
       "stepNumber": 4,
@@ -47,14 +50,7 @@
       "notes": "Record range only when measured consistently; do not force end range."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Open-Book Thoracic Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -62,17 +58,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-19T08:56:47.410Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-19T08:56:47.410Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep the movement within a comfortable range."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Open-Book Thoracic Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

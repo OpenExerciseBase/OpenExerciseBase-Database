@@ -22,19 +22,19 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand side-on to a cable set above shoulder height."
+      "description": "Stand side-on to a cable machine with the pulley set above shoulder height. Position your feet about shoulder-width apart and keep your knees slightly bent. Hold the handle with both hands and extend your arms toward the cable."
     },
     {
       "stepNumber": 2,
-      "description": "Hold the handle with both hands and set the feet firmly."
+      "description": "Brace your core and maintain a stable stance. Keep your chest lifted and your shoulders relaxed while facing the cable."
     },
     {
       "stepNumber": 3,
-      "description": "Pull diagonally across the body using coordinated trunk and hip rotation."
+      "description": "Pull the handle diagonally across your body toward the opposite hip. Rotate your torso and hips together as you move, allowing your feet to pivot naturally if needed. Keep your arms relatively straight and let the rotation of your trunk drive the movement."
     },
     {
       "stepNumber": 4,
-      "description": "Return slowly and repeat before changing sides."
+      "description": "Slowly reverse the movement and return the handle to the starting position while maintaining tension in the cable. Complete the designated repetitions, then turn around and repeat on the opposite side."
     }
   ],
   "performanceMetrics": [
@@ -49,6 +49,34 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-02T11:48:34.786Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-02T11:48:34.786Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Rotate through a comfortable range with controlled hips and trunk.",
+    "Maintain a neutral, upright posture and avoid excessive rounding or arching of the lower back.",
+    "Keep your shoulders relaxed and avoid shrugging them toward your ears.",
+    "Control the return phase instead of allowing the cable to pull you back to the starting position.",
+    "Use a manageable weight that allows you to maintain control and consistent technique on both sides."
+  ],
   "variations": [
     {
       "id": "",
@@ -59,26 +87,5 @@
       "variationDescription": "Cable Wood Chop — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Rotate through a comfortable range with controlled hips and trunk."
-  ]
+  "relationshipSuggestions": []
 }

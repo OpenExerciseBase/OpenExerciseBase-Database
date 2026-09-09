@@ -6,16 +6,21 @@
   ],
   "exerciseEffects": [
     "improved_joint_mobility",
-    "movement_preparation"
+    "movement_preparation",
+    "stretch_muscle",
+    "improved_range_of_motion"
   ],
   "bodyParts": [
     "hips",
     "glutes",
     "inner_thighs"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
@@ -24,7 +29,7 @@
     },
     {
       "stepNumber": 2,
-      "description": "Lower both knees toward one side while using the hands for support."
+      "description": "Lower both knees toward one side while keeping your hands back as support."
     },
     {
       "stepNumber": 3,
@@ -47,14 +52,7 @@
       "notes": "Record range only when measured consistently; do not force end range."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Hip 90-90 Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -62,17 +60,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T14:35:25.850Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T14:35:25.850Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Use hands for support and reduce range as needed."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Hip 90-90 Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationshipSuggestions": []
 }

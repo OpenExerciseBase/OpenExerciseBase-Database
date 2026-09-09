@@ -2,7 +2,6 @@
   "id": "EX-fingertip-touches-01KZ3V3DYQG2ZAZAGXM9YXKZ43",
   "name": "Fingertip Touches",
   "categories": [
-    "flexibility_and_mobility",
     "balance_and_coordination"
   ],
   "exerciseEffects": [
@@ -38,11 +37,14 @@
       "type": "repetitions",
       "unit": "repetitions",
       "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    },
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record continuos duration performed."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -50,15 +52,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T14:46:52.041Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T14:46:52.041Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

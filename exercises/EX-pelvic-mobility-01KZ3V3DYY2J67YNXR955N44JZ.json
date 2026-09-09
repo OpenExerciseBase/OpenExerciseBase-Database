@@ -1,6 +1,6 @@
 {
   "id": "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
-  "name": "Pelvic Mobility",
+  "name": "Standing Pelvic Drops",
   "categories": [
     "flexibility_and_mobility",
     "balance_and_coordination"
@@ -25,7 +25,7 @@
     },
     {
       "stepNumber": 2,
-      "description": "Lift your heels off the floor one at a time, alternating sides."
+      "description": "Lift one heel from the floor an let the same side of your hip elevate slightly."
     },
     {
       "stepNumber": 3,
@@ -47,9 +47,7 @@
       "notes": "Count controlled movement repetitions through a comfortable range of motion."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -57,15 +55,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-02T08:15:28.604Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-02T08:15:28.604Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }

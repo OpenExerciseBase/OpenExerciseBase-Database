@@ -11,8 +11,9 @@
   ],
   "bodyParts": [
     "full_body",
-    "hips",
-    "ankles"
+    "calves",
+    "ankles",
+    "hips"
   ],
   "equipment": [
     "cones"
@@ -24,7 +25,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Arrange several markers in a wide line."
+      "description": "Arrange several cones in a wide line."
     },
     {
       "stepNumber": 2,
@@ -51,14 +52,7 @@
       "notes": "Record the time performed with comfortable, controlled technique."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Cone Weave Walk — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -66,17 +60,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-19T08:48:52.285Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-19T08:48:52.285Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Space markers widely enough for controlled turns."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Cone Weave Walk — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

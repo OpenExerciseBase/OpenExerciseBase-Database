@@ -22,7 +22,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Adjust the seat and place both feet securely on the pedals."
+      "description": "Adjust the seat to hip height and place both feet securely on the pedals, ensuring your leg is not fully extended with a slight bend in the knee at the lowest point of the pedal stroke."
     },
     {
       "stepNumber": 2,
@@ -54,6 +54,30 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T14:22:38.197Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T14:22:38.197Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Adjust the seat so pedaling is comfortable."
+  ],
   "variations": [
     {
       "id": "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
@@ -64,26 +88,5 @@
       "variationDescription": "Stationary Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Adjust the seat so pedaling is comfortable."
-  ]
+  "relationshipSuggestions": []
 }

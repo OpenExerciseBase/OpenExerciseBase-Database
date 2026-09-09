@@ -10,9 +10,7 @@
     "improved_coordination"
   ],
   "bodyParts": [
-    "full_body",
-    "hips",
-    "shoulders"
+    "full_body"
   ],
   "equipment": [],
   "location": [
@@ -40,7 +38,7 @@
   "performanceMetrics": [
     {
       "type": "duration",
-      "unit": "seconds",
+      "unit": "minutes",
       "notes": "Record the time performed with comfortable, controlled technique."
     },
     {
@@ -49,14 +47,7 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Low-Impact Dance — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -64,17 +55,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-04T15:19:38.812Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-04T15:19:38.812Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Use simple patterns and avoid abrupt direction changes if unsteady."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Low-Impact Dance — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationshipSuggestions": []
 }

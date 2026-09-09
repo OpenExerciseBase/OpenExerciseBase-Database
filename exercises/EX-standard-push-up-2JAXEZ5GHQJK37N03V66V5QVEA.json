@@ -12,7 +12,8 @@
     "chest",
     "triceps",
     "shoulders",
-    "core"
+    "core",
+    "upper_back"
   ],
   "equipment": [],
   "location": [
@@ -30,7 +31,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Lower the chest by bending the elbows through a comfortable range."
+      "description": "Lower your chest by bending your elbows through a comfortable range, without letting your chest touch the floor."
     },
     {
       "stepNumber": 4,
@@ -43,6 +44,30 @@
       "unit": "repetitions",
       "notes": "Count technically controlled repetitions."
     }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-25T21:25:08.714Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-25T21:25:08.714Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Elevate the hands if trunk control cannot be maintained."
   ],
   "variations": [
     {
@@ -58,26 +83,5 @@
       "variationDescription": "Standard Push-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Elevate the hands if trunk control cannot be maintained."
-  ]
+  "relationshipSuggestions": []
 }

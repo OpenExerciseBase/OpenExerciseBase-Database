@@ -17,24 +17,29 @@
     "bench"
   ],
   "location": [
-    "indoor"
+    "indoor",
+    "outdoor"
   ],
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Lie on a bench with feet supported and dumbbells near the chest."
+      "description": "Lie comfortably on a bench with your feet firmly supported on the floor. Hold the dumbbells just outside and slightly above your chest, with your elbows bent at approximately 45° from your torso and your palms facing forward or slightly inward."
     },
     {
       "stepNumber": 2,
-      "description": "Set the shoulders comfortably against the bench."
+      "description": "Set your shoulders by gently pulling your shoulder blades back and down against the bench. Engage your core and maintain a natural arch in your lower back. Keep your wrists neutral and aligned with your forearms."
     },
     {
       "stepNumber": 3,
-      "description": "Press the dumbbells upward without colliding them."
+      "description": "Take a deep breath and brace your core. Press the dumbbells upward in a slight arc, bringing them closer together as they move toward the top. Keep your arms extended without fully locking your elbows."
     },
     {
       "stepNumber": 4,
-      "description": "Lower them under control until the upper arms reach a comfortable depth."
+      "description": "Pause briefly at the top with the dumbbells positioned directly above your shoulders, focusing on contracting your chest muscles. Then slowly lower the dumbbells along the same arcing path while maintaining control."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Lower the weights until you feel a comfortable stretch in your chest, without allowing excessive shoulder extension. Exhale during the pressing phase and inhale as you lower the weights. Repeat for the desired number of repetitions while maintaining controlled movement throughout."
     }
   ],
   "performanceMetrics": [
@@ -49,6 +54,30 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-24T13:13:05.121Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-24T13:13:05.121Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a spotter or lighter loads when appropriate."
+  ],
   "variations": [
     {
       "id": "",
@@ -59,26 +88,5 @@
       "variationDescription": "Dumbbell Bench Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Use a spotter or lighter loads when appropriate."
-  ]
+  "relationshipSuggestions": []
 }

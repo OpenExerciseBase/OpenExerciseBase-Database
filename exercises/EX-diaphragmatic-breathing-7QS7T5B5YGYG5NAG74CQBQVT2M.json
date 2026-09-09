@@ -12,7 +12,10 @@
     "diaphragm",
     "core"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat",
+    "chair"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -47,14 +50,7 @@
       "notes": "Record a comfortable breathing rate without prescribing a universal norm."
     }
   ],
-  "variations": [
-    {
-      "id": "",
-      "variationDescription": "Diaphragmatic Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
-    }
-  ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -62,17 +58,27 @@
   },
   "metadata": {
     "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T07:53:40.635Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T07:53:40.635Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": [
     "Keep breathing comfortable and unforced."
-  ]
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Diaphragmatic Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationshipSuggestions": []
 }

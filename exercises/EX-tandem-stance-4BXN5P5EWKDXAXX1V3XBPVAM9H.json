@@ -11,8 +11,7 @@
   "bodyParts": [
     "ankles",
     "feet",
-    "hips",
-    "core"
+    "hips"
   ],
   "equipment": [
     "chair"
@@ -24,7 +23,7 @@
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Stand beside support with one foot directly in front of the other."
+      "description": "Stand beside a chair with one foot directly in front of the other, using the chair for support if needed."
     },
     {
       "stepNumber": 2,
@@ -46,6 +45,30 @@
       "notes": "Record time maintained before using support or changing foot position."
     }
   ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-26T20:42:26.799Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-26T20:42:26.799Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Position yourself beside stable support."
+  ],
   "variations": [
     {
       "id": "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q",
@@ -56,26 +79,5 @@
       "variationDescription": "Tandem Stance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
-  "mediaContent": {
-    "imageURLs": [
-      "image_1.png"
-    ]
-  },
-  "metadata": {
-    "createdBy": "ai generated",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "ai-generator",
-    "dedupStatus": "not_duplicate",
-    "duplicateOf": null
-  },
-  "commentsNotes": [
-    "Position yourself beside stable support."
-  ]
+  "relationshipSuggestions": []
 }

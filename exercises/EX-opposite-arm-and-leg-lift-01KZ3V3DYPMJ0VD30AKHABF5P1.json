@@ -14,7 +14,9 @@
     "glutes",
     "shoulders"
   ],
-  "equipment": [],
+  "equipment": [
+    "yoga mat"
+  ],
   "location": [
     "indoor",
     "outdoor"
@@ -30,7 +32,7 @@
     },
     {
       "stepNumber": 3,
-      "description": "Raise your left arm and right leg a few centimetres off the leg floor and hold for a few seconds, before returning both to the floor and switching sides."
+      "description": "Raise your left arm and right leg a few centimetres off the floor and hold for a few seconds, before returning both to the floor and switching sides."
     }
   ],
   "performanceMetrics": [
@@ -40,9 +42,7 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -50,15 +50,20 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "not validated",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "reviewed and edited",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-03T11:07:26.146Z",
     "reviewNotes": null,
-    "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-09-03T11:07:26.146Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
-  "commentsNotes": []
+  "commentsNotes": [],
+  "variations": [],
+  "relationshipSuggestions": []
 }
