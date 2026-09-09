@@ -1,0 +1,79 @@
+{
+  "id": "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
+  "name": "Child's Pose Side Reach",
+  "categories": [
+    "flexibility_and_mobility",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_flexibility",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "shoulders",
+    "lower_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Begin on hands and knees and move the hips back toward the heels."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Reach both hands forward, then walk them slightly to one side."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Breathe into the side of the rib cage."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return through center and repeat to the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Child's Pose Side Reach — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use cushions or a chair-supported version if floor kneeling is unsuitable."
+  ]
+}

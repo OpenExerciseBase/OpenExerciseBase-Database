@@ -1,0 +1,86 @@
+{
+  "id": "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX",
+  "name": "Nordic Walking",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "full_body",
+    "shoulders",
+    "upper_back",
+    "legs"
+  ],
+  "equipment": [
+    "walking_poles"
+  ],
+  "location": [
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with poles angled behind and straps fitted correctly."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Walk forward while planting each pole near the opposite foot."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Push the pole backward to assist arm swing and propulsion."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Maintain an upright posture and steady breathing."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Nordic Walking — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use poles adjusted to a comfortable height."
+  ]
+}

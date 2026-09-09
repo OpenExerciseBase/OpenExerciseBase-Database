@@ -1,0 +1,67 @@
+{
+  "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
+  "name": "Boat Pose",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the mat with your legs fully extended and lean your torso back."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Raise both legs to a 45-degree angle and reach your arms to the front, keeping them parallel to the floor."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Stay in boat pose for 30 seconds to 1 minute."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
+      "variationDescription": "Adds small arm pulses while maintaining the boat-pose position."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

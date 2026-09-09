@@ -1,0 +1,83 @@
+{
+  "id": "EX-standing-breath-and-arm-raise-2RM0882WXD7STAKY5TTQ686NWN",
+  "name": "Standing Breath and Arm Raise",
+  "categories": [
+    "relaxation_and_breathing",
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_breath_control",
+    "movement_preparation"
+  ],
+  "bodyParts": [
+    "diaphragm",
+    "shoulders",
+    "chest"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand tall with arms resting by the sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Inhale gently while raising the arms forward or outward."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale while lowering the arms slowly."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Match movement to a comfortable breathing rhythm."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Standing Breath and Arm Raise — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T06:38:18.813Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T06:38:18.813Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Raise the arms only through a comfortable range."
+  ]
+}

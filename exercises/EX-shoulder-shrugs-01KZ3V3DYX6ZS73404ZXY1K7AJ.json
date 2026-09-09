@@ -1,0 +1,65 @@
+{
+  "id": "EX-shoulder-shrugs-01KZ3V3DYX6ZS73404ZXY1K7AJ",
+  "name": "Shoulder Shrugs",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand with a relaxed posture and your arms hanging loosely by your sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently lift your shoulders up towards your ears, and then slowly let them drop all the way down again."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Repeat as many times as you like."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

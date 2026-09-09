@@ -1,0 +1,91 @@
+{
+  "id": "EX-rowing-machine-29N80H8900F2BJY8VMJMZ393A2",
+  "name": "Rowing Machine",
+  "categories": [
+    "endurance",
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "full_body",
+    "upper_back",
+    "quadriceps",
+    "glutes"
+  ],
+  "equipment": [
+    "rowing_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the rower with feet secured and grasp the handle."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Drive through the legs, then open the hips and draw the handle toward the lower ribs."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Extend the arms, hinge forward, and bend the knees to return."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat with a smooth rhythm rather than pulling abruptly."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Rowing Machine — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Rowing Machine — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Prioritize a smooth leg-drive and controlled return."
+  ]
+}

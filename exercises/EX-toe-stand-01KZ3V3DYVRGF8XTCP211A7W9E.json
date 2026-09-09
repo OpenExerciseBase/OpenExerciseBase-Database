@@ -1,0 +1,59 @@
+{
+  "id": "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
+  "name": "Toe Stand",
+  "categories": [
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "calves",
+    "ankles",
+    "feet"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Get into a toe stand with both feet."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Try to hold the position for 10-30 seconds."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "balance_time",
+      "unit": "seconds",
+      "notes": "Record the time the position is maintained with controlled balance."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

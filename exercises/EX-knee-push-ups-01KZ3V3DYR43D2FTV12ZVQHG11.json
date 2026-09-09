@@ -1,0 +1,67 @@
+{
+  "id": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+  "name": "Knee Push-Ups",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Kneel with your hands on the floor in front of you, directly beneath your shoulders."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cross your ankles over eachother and engage your core."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bend your elbows until your chest gets as close to the floor as possible while keeping your back straight."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Push back up and repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

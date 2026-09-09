@@ -1,0 +1,66 @@
+{
+  "id": "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+  "name": "Sit-Up",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back on the floor or exercise mat and bend your legs so your feet are planted with the soles of your feet on the floor or mat."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Place your hands behind your head or on opposite shoulders."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale and use your stomach muscles to bring yourself up into a sitting position."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Slowly lower yourself back down to the mat while keeping the movement controlled and contracting your stomach muscles."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

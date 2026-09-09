@@ -1,0 +1,88 @@
+{
+  "id": "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81",
+  "name": "Farmer Carry",
+  "categories": [
+    "strength_and_resistance",
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_grip_strength",
+    "improved_core_stability",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "forearms",
+    "core",
+    "shoulders",
+    "full_body"
+  ],
+  "equipment": [
+    "dumbbells"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand between two dumbbells and lift them with a controlled hinge."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Walk forward with short steady steps and relaxed shoulders."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep the trunk upright and the weights from swinging."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Set the weights down with a controlled hinge."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Farmer Carry — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Farmer Carry — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Keep the walking path clear."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
+  "name": "Seated Marching",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_muscular_endurance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "hips",
+    "quadriceps",
+    "core"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit tall near the front of a stable chair."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift one knee without leaning far backward."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower the foot and alternate sides."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue with a smooth rhythm and relaxed breathing."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Seated Marching — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a stable chair without wheels."
+  ]
+}

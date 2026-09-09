@@ -1,0 +1,63 @@
+{
+  "id": "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ",
+  "name": "Dolphin Push-Up",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Get down on your hands and feet, with your hands shoulder-width apart, your legs straight and your hips up."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend your elbows, until your arms form a 90-degree angle, and bring your head close to the mat."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Straighten your elbows, pushing your body away from the mat, and return to the starting position."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
+  "name": "Tree Pose",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle",
+    "relaxation",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with your feet planted firmly on the ground."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Raise your arms high above your head, palms together."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Slowly bring one leg up and rest your foot on the inner thigh or knee of your other leg."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold this pose for some deep breaths before switching sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
+  "name": "Ball Toss in Stable Stance",
+  "categories": [
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_coordination",
+    "improved_balance"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "core",
+    "hips"
+  ],
+  "equipment": [
+    "soft_ball"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand in a stable stance holding a soft ball."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Toss the ball gently between the hands or to a partner."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Track the ball with the eyes and keep the feet controlled."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pause and widen the stance if balance decreases."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Ball Toss in Stable Stance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a soft ball and an uncluttered area."
+  ]
+}

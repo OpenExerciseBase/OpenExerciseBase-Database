@@ -1,0 +1,85 @@
+{
+  "id": "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+  "name": "Romanian Deadlift with Dumbbells",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "hamstrings",
+    "glutes",
+    "lower_back",
+    "forearms"
+  ],
+  "equipment": [
+    "dumbbells"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand holding dumbbells in front of the thighs with soft knees."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Push the hips backward while keeping a comfortable neutral trunk."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower the dumbbells close to the legs until hamstring tension or range limit is reached."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Drive the hips forward to stand without leaning backward."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Romanian Deadlift with Dumbbells — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Romanian Deadlift with Dumbbells — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Keep the weights close to the legs and use a comfortable range."
+  ]
+}

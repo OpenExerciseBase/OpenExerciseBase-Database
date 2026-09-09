@@ -1,0 +1,69 @@
+{
+  "id": "EX-leg-raises-01KZ3V3DYND08RZF4CTKT9VFT9",
+  "name": "Leg Raises",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "To begin this exercise, lie supine (flat on your back) and extend the legs."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Extend your arms and place them by the sides of the body, then lightly press the hands into the ground."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale, then lift the legs upwards until you reach a point where you feel as though your lower back is going to peel off of the ground."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Stop here and take a small inhale before controlling the legs on the way down, maintaining the ground contact with the lower back."
+    },
+    {
+      "stepNumber": 5,
+      "description": "At the bottom of the movement, keep the feet hovering off the ground, then repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0",
+  "name": "Feet-Together Balance",
+  "categories": [
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet",
+    "core"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with feet together beside a stable chair."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Distribute weight evenly and look forward."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Maintain the stance while breathing normally."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Use support or step apart when needed."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "balance_time",
+      "unit": "seconds",
+      "notes": "Record time maintained before using support or changing foot position."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q",
+      "variationDescription": "Semi-Tandem Balance meaningfully changes the difficulty, loading, support, or movement demands compared with Feet-Together Balance."
+    },
+    {
+      "id": "",
+      "variationDescription": "Feet-Together Balance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-18T17:01:25.661Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-18T17:01:25.661Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Stand near stable support."
+  ]
+}

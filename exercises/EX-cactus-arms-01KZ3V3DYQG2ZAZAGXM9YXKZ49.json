@@ -1,0 +1,63 @@
+{
+  "id": "EX-cactus-arms-01KZ3V3DYQG2ZAZAGXM9YXKZ49",
+  "name": "Cactus Arms",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand tall and raise your arms straight out by your sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend your elbows to 90 degrees and then bring your elbows together in front of you, keeping your shoulders back and your chest up."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return your arms to your sides and repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-21T06:39:30.390Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-21T06:39:30.390Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "EX-seated-paced-breathing-5HYQGP5640GWV3HWB0W7NJV9KS",
+  "name": "Seated Paced Breathing",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_breath_control",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "diaphragm",
+    "core"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit with feet supported and hands relaxed."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Follow a slow comfortable breathing rhythm."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Allow the abdomen and lower ribs to move naturally."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue without forcing depth or rate."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Seated Paced Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-08-18T17:01:36.580Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-05-20",
+    "lastUpdated": "2026-08-18T17:01:36.580Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a stable chair and a natural rhythm."
+  ]
+}

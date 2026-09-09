@@ -1,0 +1,70 @@
+{
+  "id": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+  "name": "Mindfulness",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "You can do this exercise sitting or standing."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Get into a relaxed position that is comfortable for you."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Concentrate consciously on your surroundings."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pay attention to everything you see, hear, smell and feel."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Pay attention to every little thing and notice what is around you."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Be completely neutral, without doing anything differently and without judging."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
