@@ -1,0 +1,47 @@
+{
+  "id": "EX-s-01M239PSH8YBXE7N3HC44D3SKS",
+  "name": "s",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_posture"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "s"
+    },
+    {
+      "stepNumber": 2,
+      "description": "s"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-09-09",
+    "lastUpdated": "2026-09-09",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
