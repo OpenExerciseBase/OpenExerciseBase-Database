@@ -1,0 +1,45 @@
+{
+  "id": "EX-test_exercise_for_attribution-01M23AXTV37KS7M84DB0DTGYRT",
+  "name": "Test Exercise For Attribution",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [],
+  "bodyParts": [
+    "glutes"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie down on the mat."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift your hips up."
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community,Rania Islambouli,test@example.com",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-09-09",
+    "lastUpdated": "2026-09-09",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
