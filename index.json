@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:43:36.852Z",
+  "updatedAt": "2026-09-09T15:01:08.857Z",
   "exercises": [
     {
       "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
@@ -836,6 +836,23 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
       "lastUpdated": "2026-08-03"
+    },
+    {
+      "id": "EX-test_exercise_for_attribution-01M23AXTV37KS7M84DB0DTGYRT",
+      "name": "Test Exercise For Attribution",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "glutes"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-test_exercise_for_attribution-01M23AXTV37KS7M84DB0DTGYRT",
+      "lastUpdated": "2026-09-09"
     }
   ]
 }
