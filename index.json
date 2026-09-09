@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:43:36.852Z",
+  "updatedAt": "2026-09-09T14:38:58.742Z",
   "exercises": [
     {
       "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
@@ -836,6 +836,23 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
       "lastUpdated": "2026-08-03"
+    },
+    {
+      "id": "EX-s-01M239PSH8YBXE7N3HC44D3SKS",
+      "name": "s",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "shoulders"
+      ],
+      "equipment": [],
+      "location": [
+        "outdoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-s-01M239PSH8YBXE7N3HC44D3SKS",
+      "lastUpdated": "2026-09-09"
     }
   ]
 }
