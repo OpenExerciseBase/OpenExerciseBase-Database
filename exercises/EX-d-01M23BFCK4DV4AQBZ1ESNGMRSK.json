@@ -1,0 +1,45 @@
+{
+  "id": "EX-d-01M23BFCK4DV4AQBZ1ESNGMRSK",
+  "name": "d",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [],
+  "bodyParts": [
+    "hamstrings"
+  ],
+  "equipment": [],
+  "location": [
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "s"
+    },
+    {
+      "stepNumber": 2,
+      "description": "s"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community,rania,d@gmail.com",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-09-09",
+    "lastUpdated": "2026-09-09",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
