@@ -47,7 +47,24 @@
       "notes": "Count technically controlled repetitions."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX"
+      },
+      "note": "Wall Push-Up provides a meaningfully different loading, support, or stability option compared with Incline Push-Up."
+    },
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-standard-push-up-2JAXEZ5GHQJK37N03V66V5QVEA"
+      },
+      "note": "Standard Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Incline Push-Up."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -73,21 +90,10 @@
   ],
   "variations": [
     {
-      "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
-      "variationDescription": "Wall Push-Up provides a meaningfully different loading, support, or stability option compared with Incline Push-Up."
-    },
-    {
-      "id": "EX-standard-push-up-2JAXEZ5GHQJK37N03V66V5QVEA",
-      "variationDescription": "Standard Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Incline Push-Up."
-    },
-    {
-      "id": "",
       "variationDescription": "Incline Push-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Incline Push-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

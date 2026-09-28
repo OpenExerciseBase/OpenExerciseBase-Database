@@ -44,7 +44,16 @@
       "notes": "Count technically controlled repetitions."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-goblet-squat-0C4G448Z5SRV4JYT0F4YD83G4P"
+      },
+      "note": "Goblet Squat meaningfully changes the difficulty, loading, support, or movement demands compared with Bodyweight Squat."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -70,17 +79,10 @@
   ],
   "variations": [
     {
-      "id": "EX-goblet-squat-0C4G448Z5SRV4JYT0F4YD83G4P",
-      "variationDescription": "Goblet Squat meaningfully changes the difficulty, loading, support, or movement demands compared with Bodyweight Squat."
-    },
-    {
-      "id": "",
       "variationDescription": "Bodyweight Squat — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Bodyweight Squat — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

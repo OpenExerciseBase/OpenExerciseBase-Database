@@ -47,20 +47,22 @@
   ],
   "variations": [
     {
-      "id": "EX-reverse-lunge-0FF0HS93ZGDE03PATSSMMQW4ZP",
-      "variationDescription": "Reverse Lunge meaningfully changes the difficulty, loading, support, or movement demands compared with Stationary Split Squat."
-    },
-    {
-      "id": "",
       "variationDescription": "Stationary Split Squat — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Stationary Split Squat — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-reverse-lunge-0FF0HS93ZGDE03PATSSMMQW4ZP"
+      },
+      "note": "Reverse Lunge meaningfully changes the difficulty, loading, support, or movement demands compared with Stationary Split Squat."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

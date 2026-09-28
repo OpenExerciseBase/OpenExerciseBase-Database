@@ -76,13 +76,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Assisted Pull-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Assisted Pull-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

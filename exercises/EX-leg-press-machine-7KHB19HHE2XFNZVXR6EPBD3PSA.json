@@ -74,13 +74,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Leg Press Machine — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Leg Press Machine — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

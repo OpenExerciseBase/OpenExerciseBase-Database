@@ -52,16 +52,13 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Wrist Extension with Dumbbell — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Wrist Extension with Dumbbell — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

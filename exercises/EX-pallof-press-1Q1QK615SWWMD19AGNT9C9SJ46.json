@@ -71,13 +71,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Pallof Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Pallof Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

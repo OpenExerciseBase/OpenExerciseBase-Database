@@ -55,16 +55,19 @@
   ],
   "variations": [
     {
-      "id": "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
-      "variationDescription": "Brisk Walking Intervals meaningfully changes the difficulty, loading, support, or movement demands compared with Comfortable-Pace Walking."
-    },
-    {
-      "id": "",
       "variationDescription": "Comfortable-Pace Walking — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN"
+      },
+      "note": "Brisk Walking Intervals meaningfully changes the difficulty, loading, support, or movement demands compared with Comfortable-Pace Walking."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

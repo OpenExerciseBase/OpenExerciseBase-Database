@@ -47,7 +47,16 @@
       "notes": "Count technically controlled repetitions."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1"
+      },
+      "note": "Glute Bridge provides a meaningfully different loading, support, or stability option compared with Single-Leg Glute Bridge."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -73,17 +82,10 @@
   ],
   "variations": [
     {
-      "id": "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1",
-      "variationDescription": "Glute Bridge provides a meaningfully different loading, support, or stability option compared with Single-Leg Glute Bridge."
-    },
-    {
-      "id": "",
       "variationDescription": "Single-Leg Glute Bridge — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Single-Leg Glute Bridge — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

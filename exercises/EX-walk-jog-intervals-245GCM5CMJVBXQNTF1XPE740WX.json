@@ -53,7 +53,16 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY"
+      },
+      "note": "Easy Jogging provides a meaningfully different loading, support, or stability option compared with Walk-Jog Intervals."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -79,13 +88,7 @@
   ],
   "variations": [
     {
-      "id": "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
-      "variationDescription": "Easy Jogging provides a meaningfully different loading, support, or stability option compared with Walk-Jog Intervals."
-    },
-    {
-      "id": "",
       "variationDescription": "Walk-Jog Intervals — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

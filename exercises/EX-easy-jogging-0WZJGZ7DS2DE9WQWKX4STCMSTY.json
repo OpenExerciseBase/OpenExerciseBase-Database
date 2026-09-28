@@ -55,16 +55,19 @@
   ],
   "variations": [
     {
-      "id": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
-      "variationDescription": "Walk-Jog Intervals meaningfully changes the difficulty, loading, support, or movement demands compared with Easy Jogging."
-    },
-    {
-      "id": "",
       "variationDescription": "Easy Jogging — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX"
+      },
+      "note": "Walk-Jog Intervals meaningfully changes the difficulty, loading, support, or movement demands compared with Easy Jogging."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

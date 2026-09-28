@@ -53,7 +53,16 @@
       "notes": "Record the external load used without treating it as a universal target."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA"
+      },
+      "note": "Bodyweight Squat provides a meaningfully different loading, support, or stability option compared with Goblet Squat."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -79,17 +88,10 @@
   ],
   "variations": [
     {
-      "id": "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA",
-      "variationDescription": "Bodyweight Squat provides a meaningfully different loading, support, or stability option compared with Goblet Squat."
-    },
-    {
-      "id": "",
       "variationDescription": "Goblet Squat — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Goblet Squat — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }
