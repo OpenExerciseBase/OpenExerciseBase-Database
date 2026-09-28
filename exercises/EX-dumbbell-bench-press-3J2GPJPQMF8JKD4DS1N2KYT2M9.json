@@ -80,13 +80,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Dumbbell Bench Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Dumbbell Bench Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

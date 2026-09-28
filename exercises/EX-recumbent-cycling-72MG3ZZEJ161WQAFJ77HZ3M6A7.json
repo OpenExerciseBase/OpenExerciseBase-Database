@@ -55,7 +55,16 @@
       "notes": "Record the individual's perceived effort after the exercise."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09"
+      },
+      "note": "Stationary Cycling provides a meaningfully different loading, support, or stability option compared with Recumbent Cycling."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -81,13 +90,7 @@
   ],
   "variations": [
     {
-      "id": "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09",
-      "variationDescription": "Stationary Cycling provides a meaningfully different loading, support, or stability option compared with Recumbent Cycling."
-    },
-    {
-      "id": "",
       "variationDescription": "Recumbent Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

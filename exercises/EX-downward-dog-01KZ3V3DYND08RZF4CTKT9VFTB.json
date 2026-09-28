@@ -50,7 +50,13 @@
       "notes": "Record the duration of the comfortable, controlled practice."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "targetName": "Single Leg Downward Dog",
+      "note": "Raises one leg while maintaining the downward-dog position."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -72,11 +78,5 @@
     "image_source": "ai generated"
   },
   "commentsNotes": [],
-  "variations": [
-    {
-      "id": "EX-single-leg-downward-dog-01KZ3V3DYR43D2FTV12ZVQHG1A",
-      "variationDescription": "Raises one leg while maintaining the downward-dog position."
-    }
-  ],
-  "relationshipSuggestions": []
+  "variations": []
 }

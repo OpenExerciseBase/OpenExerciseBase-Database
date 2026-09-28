@@ -47,20 +47,27 @@
   ],
   "variations": [
     {
-      "id": "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0",
-      "variationDescription": "Feet-Together Balance provides a meaningfully different loading, support, or stability option compared with Semi-Tandem Balance."
-    },
-    {
-      "id": "EX-tandem-stance-4BXN5P5EWKDXAXX1V3XBPVAM9H",
-      "variationDescription": "Tandem Stance meaningfully changes the difficulty, loading, support, or movement demands compared with Semi-Tandem Balance."
-    },
-    {
-      "id": "",
       "variationDescription": "Semi-Tandem Balance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0"
+      },
+      "note": "Feet-Together Balance provides a meaningfully different loading, support, or stability option compared with Semi-Tandem Balance."
+    },
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-tandem-stance-4BXN5P5EWKDXAXX1V3XBPVAM9H"
+      },
+      "note": "Tandem Stance meaningfully changes the difficulty, loading, support, or movement demands compared with Semi-Tandem Balance."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

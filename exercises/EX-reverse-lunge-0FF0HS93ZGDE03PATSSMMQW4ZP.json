@@ -45,7 +45,16 @@
       "notes": "Count technically controlled repetitions."
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-stationary-split-squat-7QZT4JZ13FV8CQ3WQF0TN91JZS"
+      },
+      "note": "Stationary Split Squat provides a meaningfully different loading, support, or stability option compared with Reverse Lunge."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -71,17 +80,10 @@
   ],
   "variations": [
     {
-      "id": "EX-stationary-split-squat-7QZT4JZ13FV8CQ3WQF0TN91JZS",
-      "variationDescription": "Stationary Split Squat provides a meaningfully different loading, support, or stability option compared with Reverse Lunge."
-    },
-    {
-      "id": "",
       "variationDescription": "Reverse Lunge — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Reverse Lunge — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

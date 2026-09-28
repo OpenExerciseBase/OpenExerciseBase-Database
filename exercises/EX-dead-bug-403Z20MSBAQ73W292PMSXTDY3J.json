@@ -73,13 +73,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Dead Bug — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Dead Bug — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }

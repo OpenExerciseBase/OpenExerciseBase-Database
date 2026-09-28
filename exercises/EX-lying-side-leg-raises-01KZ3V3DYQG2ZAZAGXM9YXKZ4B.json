@@ -46,7 +46,13 @@
       "notes": "If bodyweight only is too easy"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "targetName": "Side Leg Raises",
+      "note": "Performs the side leg raise from a standing position."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -68,11 +74,5 @@
     "image_source": "ai generated"
   },
   "commentsNotes": [],
-  "variations": [
-    {
-      "id": "EX-side-leg-raises-01KZ3V3DYMQ0JFE1ZDQWY74XFB",
-      "variationDescription": "Performs the side leg raise from a standing position."
-    }
-  ],
-  "relationshipSuggestions": []
+  "variations": []
 }

@@ -68,13 +68,10 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Bird Dog — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Bird Dog — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
-  ],
-  "relationshipSuggestions": []
+  ]
 }
