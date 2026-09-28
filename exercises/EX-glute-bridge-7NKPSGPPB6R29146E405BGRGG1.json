@@ -44,20 +44,22 @@
   ],
   "variations": [
     {
-      "id": "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
-      "variationDescription": "Single-Leg Glute Bridge meaningfully changes the difficulty, loading, support, or movement demands compared with Glute Bridge."
-    },
-    {
-      "id": "",
       "variationDescription": "Glute Bridge — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Glute Bridge — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV"
+      },
+      "note": "Single-Leg Glute Bridge meaningfully changes the difficulty, loading, support, or movement demands compared with Glute Bridge."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

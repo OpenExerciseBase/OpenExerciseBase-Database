@@ -46,16 +46,19 @@
   ],
   "variations": [
     {
-      "id": "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q",
-      "variationDescription": "Semi-Tandem Balance meaningfully changes the difficulty, loading, support, or movement demands compared with Feet-Together Balance."
-    },
-    {
-      "id": "",
       "variationDescription": "Feet-Together Balance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q"
+      },
+      "note": "Semi-Tandem Balance meaningfully changes the difficulty, loading, support, or movement demands compared with Feet-Together Balance."
+    }
+  ],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

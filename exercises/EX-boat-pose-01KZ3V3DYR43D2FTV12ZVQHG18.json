@@ -38,14 +38,17 @@
       "notes": "Record the time the position or isometric effort is maintained with controlled technique."
     }
   ],
-  "variations": [
+  "variations": [],
+  "relationships": [
     {
-      "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
-      "variationDescription": "Adds small arm pulses while maintaining the boat-pose position."
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95"
+      },
+      "note": "Adds small arm pulses while maintaining the boat-pose position."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"

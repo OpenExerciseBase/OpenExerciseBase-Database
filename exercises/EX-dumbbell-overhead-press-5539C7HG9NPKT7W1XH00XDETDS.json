@@ -52,16 +52,13 @@
   ],
   "variations": [
     {
-      "id": "",
       "variationDescription": "Dumbbell Overhead Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
     },
     {
-      "id": "",
       "variationDescription": "Dumbbell Overhead Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
     }
   ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
