@@ -39,14 +39,17 @@
       "notes": "Count repetitions completed with controlled technique."
     }
   ],
-  "variations": [
+  "variations": [],
+  "relationships": [
     {
-      "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
-      "variationDescription": "Maintains boat pose without the added arm pulses."
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18"
+      },
+      "note": "Maintains boat pose without the added arm pulses."
     }
   ],
-  "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
