@@ -1,0 +1,80 @@
+{
+  "id": "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
+  "name": "Child's Pose Side Reach",
+  "categories": [
+    "flexibility_and_mobility",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_flexibility",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "lower back",
+    "upper back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start on your hands and knees, then slowly sit your hips back toward your heels."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Extend both arms forward with your palms on the floor. Walk your hands slowly to one side until you feel a gentle stretch along the opposite side of your torso."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Take slow, deep breaths and focus on expanding the side of your rib cage with each inhale. Keep your hips relaxed and close to your heels."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Walk your hands back to the center and return to the starting position. Repeat the stretch on the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Child's Pose Side Reach — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T09:38:53.193Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T09:38:53.193Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use cushions or a chair-supported version if floor kneeling is unsuitable."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+  "name": "Mindfulness",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand in a comfortable position where you can remain relaxed and attentive."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Sit or stand in a comfortable position where you can remain relaxed and attentive."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Gently direct your attention to your immediate surroundings and become aware of what is happening around you."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Notice what you can see, hear, smell, and feel. Take in each sensation without needing to focus on or change it."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Allow yourself to notice even small or subtle details, giving each experience your attention as it naturally arises."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Observe everything without judging, analyzing, or trying to respond. Let each experience come and go without needing to do anything about it."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-18T12:16:30.449Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-18T12:16:30.449Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "There is nothing you need to achieve or change.",
+    "If your attention wanders, gently bring it back to the present moment.",
+    "Notice both pleasant and unpleasant sensations without labeling them as good or bad."
+  ]
+}

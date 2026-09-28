@@ -1,0 +1,76 @@
+{
+  "id": "EX-leg-raises-01KZ3V3DYND08RZF4CTKT9VFT9",
+  "name": "Leg Raises",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "hip flexors",
+    "lower back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your legs extended and together. Place your arms alongside your body with your palms facing down. Gently press your hands into the floor for support."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Engage your core and keep your lower back gently pressed against the floor. Lift your legs slowly upward while keeping them extended."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Continue lifting until you reach the highest point where you can still maintain contact between your lower back and the floor. Do not lift higher if your lower back begins to arch or lift away."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pause briefly at the top, then slowly lower your legs while maintaining core tension and keeping your lower back in contact with the floor."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Stop just before your feet touch the floor and begin the next repetition, maintaining control throughout the movement."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-21T12:48:02.224Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-21T12:48:02.224Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use your core to control the movement rather than relying on momentum.",
+    "Exhale as you lift your legs and inhale as you lower them.",
+    "Keep your lower back in contact with the floor throughout the exercise. If maintaining lower-back contact is difficult, reduce the range of motion."
+  ]
+}

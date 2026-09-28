@@ -1,0 +1,76 @@
+{
+  "id": "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94",
+  "name": "Bear with Shoulder Touches",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "core",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a high-plank position with your hands directly below your shoulders and your legs fully extended behind you. Keep your feet about hip-width apart and your core engaged."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Maintain a stable plank position and shift your weight slightly onto one arm. Lift the opposite hand and touch the opposite shoulder."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Place your hand back on the floor and shift your weight to the other side. Touch the opposite shoulder with the other hand."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating sides in a slow, controlled manner. Keep your legs extended and your body stable throughout the movement."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-21T11:32:30.035Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-21T11:32:30.035Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your body in a straight line from head to heels.",
+    "Engage your core to prevent your hips from rocking or rotating.",
+    "Keep your shoulders stable and avoid shrugging.",
+    "Shift your weight smoothly before lifting each hand.",
+    "Widen your feet slightly if you need more stability."
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "EX-cat-cow-spinal-mobility-43SMTHQT8TZHH3AY1ACDWDP3H4",
+  "name": "Cat-Cow Spinal Mobility",
+  "categories": [
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "movement_preparation",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "spine",
+    "neck",
+    "hip flexors",
+    "lower back",
+    "upper back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start on your hands and knees with your hands directly below your shoulders and your knees below your hips. Keep your spine in a comfortable neutral position and your neck relaxed."
+    },
+    {
+      "stepNumber": 2,
+      "description": "As you exhale, gently tuck your pelvis and round your spine, allowing your head to follow naturally without pulling the chin strongly toward the chest."
+    },
+    {
+      "stepNumber": 3,
+      "description": "As you inhale, reverse the movement by gently tilting your pelvis and extending your spine. Open your chest and allow your head to follow naturally, without forcing the neck or excessively arching the lower back."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating slowly between the two positions, moving smoothly with your breathing and staying within a comfortable range of motion."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Cat-Cow Spinal Mobility — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-21T11:49:24.284Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-21T11:49:24.284Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Move through the entire spine rather than only the lower back.",
+    "Coordinate the movement with your breathing: exhale into Cat and inhale into Cow.",
+    "Keep your movements slow and controlled."
+  ]
+}

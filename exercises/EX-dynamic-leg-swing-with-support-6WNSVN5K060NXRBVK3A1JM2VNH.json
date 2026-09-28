@@ -1,0 +1,87 @@
+{
+  "id": "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH",
+  "name": "Dynamic Leg Swing with Support",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "movement_preparation",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "hips",
+    "hamstrings",
+    "hip flexors",
+    "legs"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand beside a stable chair, a wall or other stable support and hold it with one hand for support. Stand tall with your feet about hip-width apart and your core gently engaged."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Shift your weight onto the supporting leg and swing the opposite leg gently forward and backward through a comfortable range of motion."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep your upper body upright and your pelvis stable. Let the movement come from the hip while keeping the swinging leg relaxed."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Gradually slow the movement, place the foot back on the floor, and repeat on the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Dynamic Leg Swing with Support — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-21T10:30:29.240Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-21T10:30:29.240Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a stable support that will not move or tip.",
+    "Keep your trunk upright and avoid leaning forward or backward.",
+    "Start with a small range of motion and gradually increase it if comfortable.",
+    "Keep the supporting knee slightly soft rather than locked."
+  ]
+}

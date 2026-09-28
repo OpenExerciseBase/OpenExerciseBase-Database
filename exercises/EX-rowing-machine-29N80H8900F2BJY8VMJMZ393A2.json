@@ -1,0 +1,98 @@
+{
+  "id": "EX-rowing-machine-29N80H8900F2BJY8VMJMZ393A2",
+  "name": "Rowing Machine",
+  "categories": [
+    "endurance",
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_muscular_endurance",
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "full_body",
+    "upper_back",
+    "quadriceps",
+    "glutes"
+  ],
+  "equipment": [
+    "rowing_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the rowing machine with your feet securely strapped in and hold the handle with both hands. Start with your knees bent, arms extended, and torso leaning slightly forward from the hips while keeping your back neutral."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Push firmly through your feet to extend your legs. As your legs straighten, open your hips and bring your torso to an upright position, then pull the handle toward your lower ribs."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Extend your arms forward first, then hinge your torso forward from the hips. Once your arms are clear of your knees, bend your knees and smoothly slide back to the starting position."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat the movement in a steady rhythm, coordinating the legs, hips, and arms throughout each stroke. Keep the movement controlled and avoid abrupt or jerky pulls."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Rowing Machine — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "variationDescription": "Rowing Machine — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T10:25:49.522Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T10:25:49.522Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Prioritize a smooth leg-drive and controlled return.",
+    "Think legs → hips → arms on the drive and arms → hips → legs on the return.",
+    "Keep your back neutral and avoid rounding your lower back.",
+    "Keep your core gently engaged to stabilize your torso.",
+    "Pull the handle toward the lower ribs rather than the upper chest.",
+    "Keep your shoulders relaxed and avoid shrugging."
+  ]
+}

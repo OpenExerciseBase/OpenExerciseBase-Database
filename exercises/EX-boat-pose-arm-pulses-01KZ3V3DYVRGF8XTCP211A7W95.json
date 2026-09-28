@@ -1,0 +1,88 @@
+{
+  "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
+  "name": "Boat Pose Arm Pulses",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability",
+    "improved_body_balance"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "core",
+    "hip flexors",
+    "abdominals",
+    "lower back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the floor with your knees bent and feet flat. Lean your torso back slightly, keeping your spine long and your chest open."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Engage your core and lift your feet off the floor. Extend your legs as much as comfortably possible and bring your torso and thighs into a V-shaped position. Extend your arms forward at about shoulder height."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold the Boat position while making small, controlled pulses with your arms up and down. Keep the movement small and maintain a steady, stable torso."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue for the desired duration while breathing steadily and keeping your core engaged."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18"
+      },
+      "note": "Maintains boat pose without the added arm pulses."
+    }
+  ],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T09:42:36.055Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T09:42:36.055Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your chest lifted and spine long; avoid rounding your lower back.",
+    "Keep your core engaged to maintain the V position.",
+    "Keep your shoulders relaxed and away from your ears.",
+    "Prioritize a stable Boat position over the number or speed of arm pulses.",
+    "If needed, keep your knees bent to make the exercise easier."
+  ]
+}
