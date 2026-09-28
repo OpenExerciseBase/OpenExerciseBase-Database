@@ -1,0 +1,68 @@
+{
+  "id": "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
+  "name": "Easy Seat",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the floor with your legs extended in front of you. Bend your knees and bring your feet toward you."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cross your legs comfortably and place each foot underneath or slightly in front of the opposite knee. Sit evenly on both sit bones and lengthen your spine, keeping your shoulders relaxed."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Rest your hands comfortably on your thighs or knees. Keep your head and neck in a neutral position and breathe slowly, deeply, and comfortably."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold the position for as long as it feels comfortable. Stay relaxed, maintain an upright posture, and continue breathing naturally without forcing the position."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-17T15:17:39.200Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-17T15:17:39.200Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Find a comfortable position rather than forcing a deep cross-legged position.",
+    "If your hips feel tight or your lower back rounds, sit on a folded blanket or cushion to help elevate your hips.",
+    "Let your shoulders, jaw, and face relax and maintain a slow, comfortable breathing rhythm."
+  ]
+}

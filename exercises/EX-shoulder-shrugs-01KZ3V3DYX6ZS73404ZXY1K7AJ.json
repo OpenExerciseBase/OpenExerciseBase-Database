@@ -1,0 +1,78 @@
+{
+  "id": "EX-shoulder-shrugs-01KZ3V3DYX6ZS73404ZXY1K7AJ",
+  "name": "Shoulder Shrugs",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "relaxation",
+    "relieve_muscle_tension"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand upright in a comfortable position with your feet stable and your arms relaxed by your sides. Keep your head and neck neutral."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Slowly lift both shoulders straight up toward your ears while keeping your arms relaxed. Pause briefly at the top without creating tension in your neck."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Slowly lower your shoulders back down and let them relax fully. Focus on releasing tension as the shoulders move downward."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat the movement for the desired number of repetitions, keeping the motion smooth and controlled."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T11:02:45.476Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T11:02:45.476Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Move the shoulders straight up and down.",
+    "Keep your neck relaxed and avoid pushing your head forward.",
+    "Do not force the shoulders higher than is comfortable.",
+    "Breathe naturally throughout the movement.",
+    "Focus on relaxing the shoulders as you lower them."
+  ]
+}

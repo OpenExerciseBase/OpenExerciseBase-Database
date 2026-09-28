@@ -1,0 +1,80 @@
+{
+  "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
+  "name": "Boat Pose",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability",
+    "improved_body_balance"
+  ],
+  "bodyParts": [
+    "core",
+    "hip flexors",
+    "lower back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the floor with your knees bent and your feet flat on the ground. Lean your torso back slightly while keeping your spine long and your chest open. Engage your core to maintain a stable position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift your feet off the floor and extend your legs upward to a comfortable angle, aiming for approximately 45 degrees. Extend your arms forward at shoulder height, keeping them parallel to the floor. Balance on your sit bones without rounding or collapsing your lower back."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold the position for 30 seconds to 1 minute while breathing steadily. Keep your core engaged and maintain a controlled, stable posture throughout."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "community",
+        "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95"
+      },
+      "note": "Adds small arm pulses while maintaining the boat-pose position."
+    }
+  ],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-15T13:41:11.524Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-15T13:41:11.524Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your chest lifted and spine long rather than rounding your back.",
+    "If fully extending your legs is too challenging, keep your knees bent and gradually straighten them as your strength improves.",
+    "Keep your core engaged and avoid relying on momentum to maintain the position.",
+    "Keep your breathing steady and relaxed while holding the pose."
+  ]
+}

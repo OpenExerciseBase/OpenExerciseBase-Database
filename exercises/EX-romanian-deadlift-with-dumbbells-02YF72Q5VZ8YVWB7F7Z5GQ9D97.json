@@ -1,0 +1,90 @@
+{
+  "id": "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+  "name": "Romanian Deadlift with Dumbbells",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "hamstrings",
+    "glutes",
+    "forearms",
+    "lower back",
+    "hip flexors",
+    "core"
+  ],
+  "equipment": [
+    "dumbbells"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with your feet about hip-width apart and hold a dumbbell in each hand in front of your thighs. Keep your knees slightly bent, engage your core, and maintain a neutral spine."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Push your hips back while keeping your chest open and your back straight. Allow your upper body to lean forward naturally as your hips move backward, keeping the dumbbells close to your legs."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower the dumbbells in a controlled manner along the front of your legs. Continue until you feel a comfortable stretch in your hamstrings or reach the limit of your mobility, while keeping your back neutral."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Drive your hips forward and squeeze your glutes to return to a standing position. Stand tall without leaning backward or overextending your lower back."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Romanian Deadlift with Dumbbells — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "variationDescription": "Romanian Deadlift with Dumbbells — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T10:49:26.843Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T10:49:26.843Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep the weights close to the legs and use a comfortable range.",
+    "Think “hips back”, rather than “bend forward.”",
+    "Keep your knees slightly bent but avoid turning the movement into a squat.",
+    "Stop the descent when you can no longer maintain a neutral spine — you do not need to reach the floor."
+  ]
+}

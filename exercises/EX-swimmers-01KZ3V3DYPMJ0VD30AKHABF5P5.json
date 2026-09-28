@@ -1,0 +1,74 @@
+{
+  "id": "EX-swimmers-01KZ3V3DYPMJ0VD30AKHABF5P5",
+  "name": "Swimming Superman",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "glutes",
+    "upper back",
+    "lower back",
+    "core",
+    "full body"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie face down with your arms extended overhead and your legs straight behind you. Keep your forehead or chin close to the floor and your neck in a neutral position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently engage your core and lift your opposite arm and leg slightly off the floor. Keep your pelvis stable and your lower back in a neutral position. Avoid lifting your limbs too high or arching your lower back."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Alternate sides in a smooth, controlled motion, lifting your right arm with your left leg, then your left arm with your right leg. Keep your core engaged throughout the movement to stabilize your pelvis and prevent excessive arching of your lower back."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating sides for the desired duration. Breathe steadily and focus on maintaining a stable core and controlled movements throughout the exercise."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-17T15:30:04.985Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-17T15:30:04.985Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Focus on lengthening through your arms and legs rather than lifting them as high as possible.",
+    "Keep your pelvis stable and avoid rocking your hips from side to side.",
+    "If you feel the exercise mainly in your lower back, reduce the height of your arm and leg lifts and focus on engaging your core."
+  ]
+}

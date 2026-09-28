@@ -1,0 +1,82 @@
+{
+  "id": "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE",
+  "name": "Bicycle Crunches",
+  "categories": [
+    "strength_and_resistance",
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability",
+    "increased_heart_rate"
+  ],
+  "bodyParts": [
+    "core",
+    "abdominals",
+    "lower back",
+    "hip flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your legs lifted, knees bent to about 90°, and shins roughly parallel to the floor. Place your hands lightly behind your head, elbows open."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently engage your core and lift your head and shoulders slightly off the floor. Keep your lower back stable and your neck relaxed."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bring your right knee toward your chest while rotating your upper body so your left elbow moves toward the right knee. At the same time, extend your left leg straight out."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return through the center, then switch sides: bring your left knee toward your chest while your right leg extends and your right elbow moves toward the left knee."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Continue alternating sides in a smooth, controlled rhythm. Keep your abdominal muscles engaged throughout and avoid pulling on your head or neck."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T11:29:43.008Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T11:29:43.008Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Rotate through your upper torso rather than simply moving your elbows toward your knees.",
+    "Extend the straight leg only as far as you can while maintaining good core control.",
+    "Keep your hands light behind your head—do not pull on your neck.",
+    "Move slowly enough to maintain control; avoid using momentum.",
+    "Exhale as you rotate toward the knee and inhale as you return through the center."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
+  "name": "Tree Pose",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle",
+    "relaxation",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright with your feet together. Shift your weight onto one foot and engage your core to help maintain your balance."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend your other knee and place the sole of your foot against the inner calf or inner thigh of your standing leg."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bring your hands together in front of your chest or, if comfortable, raise your arms overhead with your palms facing or touching each other. Keep your standing leg strong and your hips facing forward."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold the position for several slow, deep breaths. Keep your gaze focused on a fixed point to help with balance, then slowly lower your leg and repeat on the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T12:57:27.450Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T12:57:27.450Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your standing knee slightly soft rather than locking it out. Engage your core and maintain a tall, neutral posture without leaning to either side."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12",
+  "name": "Knees to Chest",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "hips",
+    "glutes",
+    "lower back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your legs extended and your arms resting comfortably by your sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend both knees and gently draw them toward your chest. Hold your knees or shins with both arms and keep your lower back relaxed against the floor."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Take slow, deep breaths and relax into the stretch. With each exhale, gently draw your knees a little closer to your chest if comfortable."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T09:53:21.700Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T09:53:21.700Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1",
+  "name": "Glute Bridge",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "glutes",
+    "hamstrings",
+    "core",
+    "lower back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your knees bent and your feet flat on the floor, about hip-width apart. Position your feet so that your heels are relatively close to your hips, with your arms resting by your sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently engage your core and glutes. Start the movement from your hips by gently tilting your pelvis backward, drawing your pubic bone toward your belly button. This helps keep your lower back in a neutral position and prevents excessive arching."
+    },
+    {
+      "stepNumber": 3,
+      "description": "From this position, press your feet firmly into the floor and lift your hips by squeezing your glutes. Continue lifting until your body forms a comfortable, straight line from your shoulders to your knees. Keep the pelvic tilt throughout the movement and avoid arching your lower back to lift your hips higher."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pause briefly at the top, keeping your glutes engaged, then lower your hips slowly and with control. Return to the starting position and repeat the movement while maintaining a neutral spine."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Glute Bridge — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "variationDescription": "Glute Bridge — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "similar_to",
+      "target": {
+        "track": "validated",
+        "id": "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV"
+      },
+      "note": "Single-Leg Glute Bridge meaningfully changes the difficulty, loading, support, or movement demands compared with Glute Bridge."
+    }
+  ],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-15T10:34:31.742Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-15T10:34:31.742Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a comfortable hip range without forcing the lower back.",
+    "Think “pelvis first, then hips”: gently draw your pubic bone toward your belly button before lifting your hips.",
+    "Focus on squeezing your glutes rather than lifting your hips as high as possible.",
+    "If you feel the exercise mainly in your lower back, reduce the range of motion and focus on maintaining the pelvic position."
+  ]
+}

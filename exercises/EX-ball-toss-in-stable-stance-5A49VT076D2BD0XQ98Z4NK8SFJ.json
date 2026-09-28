@@ -1,0 +1,79 @@
+{
+  "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
+  "name": "Ball Toss in Stable Stance",
+  "categories": [
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_coordination",
+    "improved_balance"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "core",
+    "hips"
+  ],
+  "equipment": [
+    "soft_ball"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright with your feet about hip-width apart or slightly wider, knees softly bent, and core gently engaged. Hold a soft ball in both hands."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently toss the ball from one hand to the other, or toss it back and forth with a partner. Keep the throws light and controlled."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Follow the ball with your eyes as you catch and release it. Keep your feet planted and maintain a stable, upright posture."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue for the desired duration. If you feel less stable, pause, regain your balance, and widen your stance slightly before continuing."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Ball Toss in Stable Stance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T10:11:39.464Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T10:11:39.464Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a soft ball and an uncluttered area.",
+    "Start with a wider stance for greater stability and narrow it gradually if comfortable.",
+    "Prioritize safe, controlled movement over speed."
+  ]
+}

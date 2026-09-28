@@ -1,0 +1,69 @@
+{
+  "id": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+  "name": "Knee Push-Ups",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Kneel on the floor and place your hands slightly wider than shoulder-width apart, directly under or slightly in front of your shoulders. Keep your knees on the floor and form a straight line from your head to your knees."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cross your ankles if comfortable. Engage your core and lightly squeeze your glutes to maintain a stable body position. Keep your head and neck neutral."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bend your elbows at approximately a 45-degree angle to your body and slowly lower your chest toward the floor. Keep your body in a straight line and avoid letting your hips sag or lift."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Push evenly through your palms to return to the starting position, extending your arms almost fully. Keep your core engaged and repeat the movement in a controlled manner through a full range of motion."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T09:29:07.438Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T09:29:07.438Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": []
+}

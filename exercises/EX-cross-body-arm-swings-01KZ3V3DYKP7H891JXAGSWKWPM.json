@@ -1,0 +1,76 @@
+{
+  "id": "EX-cross-body-arm-swings-01KZ3V3DYKP7H891JXAGSWKWPM",
+  "name": "Cross-Body Arm Swings",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "relieve_muscle_tension",
+    "improved_range_of_motion"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "chest"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright with your feet hip-width apart, knees slightly relaxed, and core gently engaged. Extend both arms straight forward at about chest height."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Slowly swing your arms out to the sides, opening your chest. Allow your shoulder blades to move naturally toward each other and feel a gentle stretch across the chest."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bring your arms back toward the center in a controlled movement, allowing them to cross comfortably in front of your body."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating the crossing position, keeping the movement smooth and relaxed without forcing the range of motion."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T11:34:58.227Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T11:34:58.227Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your chest open and shoulders relaxed throughout.",
+    "Cross your arms only as far as comfortable—no need to force the stretch.",
+    "Breathe naturally and smoothly throughout."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
+  "name": "Seated Marching",
+  "categories": [
+    "endurance",
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_muscular_endurance",
+    "improved_coordination",
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "hips",
+    "quadriceps",
+    "core"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit upright near the front of a stable chair with both feet flat on the floor, about hip-width apart. Keep your chest open, shoulders relaxed, and core gently engaged. Let your arms rest naturally by your sides or cross them comfortably over your chest."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift one knee toward your chest in a slow and controlled movement while keeping your upper body upright. Keep your core engaged to prevent your lower back from arching excessively."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower your foot gently back to the floor, then lift the opposite knee. Continue alternating sides while maintaining a stable seated position and keeping your pelvis neutral."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Keep a smooth, controlled rhythm and breathe naturally throughout the exercise. Stay focused on maintaining good core tension and avoid compensating by leaning backward or arching your lower back."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Seated Marching — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-16T11:54:06.870Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-16T11:54:06.870Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use a stable chair without wheels.",
+    "Keep your chest upright and shoulders relaxed without leaning backward.",
+    "Lift each knee only as high as you can without losing your posture or core control."
+  ]
+}

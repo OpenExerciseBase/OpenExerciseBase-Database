@@ -1,0 +1,99 @@
+{
+  "id": "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX",
+  "name": "Nordic Walking",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "legs",
+    "full body",
+    "upper back"
+  ],
+  "equipment": [
+    "walking_poles"
+  ],
+  "location": [
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright with the Nordic Walking poles secured correctly in the straps. Keep your shoulders relaxed, your chest open, your core gently engaged, and your posture tall. Hold the poles at a relaxed angle behind your body rather than keeping them vertical."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Start walking with a natural heel-to-toe pattern and use an alternating arm-and-leg movement: as one leg steps forward, the opposite arm swings forward. Plant the pole on the opposite side at approximately the same time as the heel of the corresponding front foot. Keep the pole angled backward rather than planting it vertically."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Grip the pole as it makes contact with the ground, then actively push it backward as your body moves forward. Extend your arm naturally behind you without lifting your shoulder. As the arm moves behind your body, gradually open your hand and allow the pole strap to support the pole. The hand should finish behind the body, ideally beyond the line of the torso."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Allow the opposite arm to swing naturally forward and bring the pole forward for the next step. Keep your movements fluid and coordinated, with the arms and legs working in a natural diagonal rhythm. Avoid taking excessively large steps or forcing the arm movement."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Maintain an upright, relaxed posture throughout the walk. Keep your head up, shoulders down and relaxed, and your spine in a neutral position. Allow your torso to rotate naturally with the alternating arm and leg movement while keeping your core gently engaged."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Continue walking at a steady, comfortable pace while breathing naturally. Focus on a smooth cycle of plant → grip → push → release → swing forward, using the poles actively to assist your forward propulsion rather than simply carrying them."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Nordic Walking — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-17T14:02:07.001Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-17T14:02:07.001Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Use poles adjusted to a comfortable height.",
+    "Keep your shoulders relaxed and avoid shrugging or lifting them during the push.",
+    "Allow the arm to travel behind the body during the push rather than stopping the movement next to your hip.",
+    "Maintain a natural walking stride and avoid running or artificially lengthening your steps.",
+    "Keep your upper body upright and your spine neutral, allowing a natural rotation of the torso."
+  ]
+}

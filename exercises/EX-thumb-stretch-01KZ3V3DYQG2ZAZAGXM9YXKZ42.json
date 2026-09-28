@@ -1,0 +1,77 @@
+{
+  "id": "EX-thumb-stretch-01KZ3V3DYQG2ZAZAGXM9YXKZ42",
+  "name": "Thumb Stretch",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle",
+    "improved_range_of_motion"
+  ],
+  "bodyParts": [
+    "wrists",
+    "forearms"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Hold one hand in front of you with the palm facing upward and your fingers relaxed and extended."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Slowly move your thumb across the palm toward the base of the little finger, keeping the other fingers relaxed."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Move the thumb as far across the palm as is comfortable, pause briefly, and gently feel the stretch without forcing the movement."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Slowly return the thumb to its starting position and extend it outward again. Repeat for the desired number of repetitions, then switch hands."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T11:43:21.103Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T11:43:21.103Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep the other fingers relaxed rather than gripping or tensing them.",
+    "Keep the wrist relaxed and in a neutral position.",
+    "Breathe naturally throughout the movement."
+  ]
+}

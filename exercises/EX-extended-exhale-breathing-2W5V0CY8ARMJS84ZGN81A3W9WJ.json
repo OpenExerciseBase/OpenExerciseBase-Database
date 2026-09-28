@@ -1,0 +1,85 @@
+{
+  "id": "EX-extended-exhale-breathing-2W5V0CY8ARMJS84ZGN81A3W9WJ",
+  "name": "Extended-Exhale Breathing",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_breath_control",
+    "relaxation",
+    "relieve_muscle_tension"
+  ],
+  "bodyParts": [
+    "diaphragm",
+    "breathing_muscles",
+    "full body"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Settle into a comfortable seated or lying position. Relax your shoulders, jaw, and neck, and allow your body to rest naturally."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Inhale gently and comfortably through your nose, allowing your abdomen and lower ribs to expand naturally."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale slowly and smoothly through your nose or mouth, making the exhalation slightly longer than the inhalation. Keep the breath relaxed and avoid straining or holding it."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue for several comfortable breaths. If you feel light-headed, dizzy, or uncomfortable, stop the exercise and return to your natural breathing pattern."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Extended-Exhale Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T10:47:38.190Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T10:47:38.190Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep the breathing gentle and comfortable rather than taking very deep breaths.",
+    "Aim for a slightly longer exhalation, not a forced or prolonged one.",
+    "Keep your shoulders and upper chest relaxed.",
+    "Maintain a smooth transition between inhaling and exhaling.",
+    "There is no need to count exact seconds; choose a rhythm that feels natural."
+  ]
+}

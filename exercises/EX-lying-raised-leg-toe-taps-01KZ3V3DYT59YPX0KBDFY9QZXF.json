@@ -1,0 +1,75 @@
+{
+  "id": "EX-lying-raised-leg-toe-taps-01KZ3V3DYT59YPX0KBDFY9QZXF",
+  "name": "Lying Raised Leg Toe Taps",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "abdominals",
+    "lower back",
+    "hip flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your legs extended straight upward, approximately perpendicular to the floor. Extend your arms overhead toward your legs and keep your lower back comfortably supported by the floor."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Engage your core and exhale as you gently lift your head and shoulders off the mat. Reach both hands toward your toes without pulling on your neck."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower your head and shoulders slowly back to the mat while keeping your legs raised and your core engaged."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat the movement in a controlled rhythm, reaching toward your toes with each repetition."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T11:24:12.848Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T11:24:12.848Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Lift through your upper abdominals rather than pulling your head forward.",
+    "Keep your lower back stable and avoid excessive arching.",
+    "Reach toward your toes without needing to touch them.",
+    "Keep your movements slow and controlled rather than using momentum.",
+    "Exhale as you lift and inhale as you lower."
+  ]
+}

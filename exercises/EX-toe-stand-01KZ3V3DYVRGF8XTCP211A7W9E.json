@@ -1,0 +1,61 @@
+{
+  "id": "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
+  "name": "Toe Stand",
+  "categories": [
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "calves",
+    "ankles",
+    "feet"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright with your feet about hip-width apart. Slowly rise onto the balls of your feet, lifting your heels off the floor. Keep your core engaged and maintain an upright posture."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Hold the position for 10–30 seconds. Keep your weight evenly distributed across the balls of your feet and focus on maintaining your balance. Lower your heels back to the floor slowly and with control."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "balance_time",
+      "unit": "seconds",
+      "notes": "Record the time the position is maintained with controlled balance."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-14T10:36:51.420Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-14T10:36:51.420Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": []
+}

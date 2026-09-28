@@ -1,0 +1,78 @@
+{
+  "id": "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ",
+  "name": "Dolphin Push-Up",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps",
+    "upper back"
+  ],
+  "equipment": [
+    "yoga mat"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a downward-facing position with your hands shoulder-width apart, your legs extended, and your hips lifted high. Keep your arms straight and your core engaged."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend your elbows and slowly lower your upper body while moving your head toward the floor between your hands. Keep your hips lifted and your body controlled throughout the movement."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Press firmly through your hands and straighten your arms to push your upper body back up. Return to the starting position with your hips lifted."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat the movement slowly and with control, keeping your core engaged and avoiding excessive movement through your lower back."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-15T13:08:43.469Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-15T13:08:43.469Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your hips high throughout the exercise rather than dropping them toward the floor.",
+    "Move your head forward and down between your hands as you lower yourself.",
+    "Keep your elbows controlled and avoid letting them flare excessively to the sides.",
+    "Engage your core and legs to maintain a stable position.",
+    "If your mobility is limited, don't force your head toward the floor — work within a comfortable range of motion."
+  ]
+}

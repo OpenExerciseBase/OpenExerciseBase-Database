@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:59:54.409Z",
+  "updatedAt": "2026-09-28T14:00:27.002Z",
   "exercises": [
     {
       "id": "EX-ab-hold-01KZ3V3DYS3422TGERTFBDCBSP",
@@ -3384,6 +3384,687 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA",
       "lastUpdated": "2026-09-01T08:54:07.812Z"
+    },
+    {
+      "id": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
+      "name": "Ball Toss in Stable Stance",
+      "categories": [
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "core",
+        "hips"
+      ],
+      "equipment": [
+        "soft_ball"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
+      "lastUpdated": "2026-09-22T10:11:39.464Z"
+    },
+    {
+      "id": "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94",
+      "name": "Bear with Shoulder Touches",
+      "categories": [
+        "strength_and_resistance",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "core",
+        "chest",
+        "triceps"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94",
+      "lastUpdated": "2026-09-21T11:32:30.035Z"
+    },
+    {
+      "id": "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE",
+      "name": "Bicycle Crunches",
+      "categories": [
+        "strength_and_resistance",
+        "flexibility_and_mobility"
+      ],
+      "bodyParts": [
+        "core",
+        "abdominals",
+        "lower back",
+        "hip flexors"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE",
+      "lastUpdated": "2026-09-22T11:29:43.008Z"
+    },
+    {
+      "id": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
+      "name": "Boat Pose",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "hip flexors",
+        "lower back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
+      "lastUpdated": "2026-09-15T13:41:11.524Z"
+    },
+    {
+      "id": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
+      "name": "Boat Pose Arm Pulses",
+      "categories": [
+        "strength_and_resistance",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "core",
+        "hip flexors",
+        "abdominals",
+        "lower back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
+      "lastUpdated": "2026-09-22T09:42:36.055Z"
+    },
+    {
+      "id": "EX-cat-cow-spinal-mobility-43SMTHQT8TZHH3AY1ACDWDP3H4",
+      "name": "Cat-Cow Spinal Mobility",
+      "categories": [
+        "flexibility_and_mobility"
+      ],
+      "bodyParts": [
+        "spine",
+        "neck",
+        "hip flexors",
+        "lower back",
+        "upper back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-cat-cow-spinal-mobility-43SMTHQT8TZHH3AY1ACDWDP3H4",
+      "lastUpdated": "2026-09-21T11:49:24.284Z"
+    },
+    {
+      "id": "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
+      "name": "Child's Pose Side Reach",
+      "categories": [
+        "flexibility_and_mobility",
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "lower back",
+        "upper back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
+      "lastUpdated": "2026-09-14T09:38:53.193Z"
+    },
+    {
+      "id": "EX-cross-body-arm-swings-01KZ3V3DYKP7H891JXAGSWKWPM",
+      "name": "Cross-Body Arm Swings",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "chest"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-cross-body-arm-swings-01KZ3V3DYKP7H891JXAGSWKWPM",
+      "lastUpdated": "2026-09-22T11:34:58.227Z"
+    },
+    {
+      "id": "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ",
+      "name": "Dolphin Push-Up",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "shoulders",
+        "chest",
+        "triceps",
+        "upper back"
+      ],
+      "equipment": [
+        "yoga mat"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ",
+      "lastUpdated": "2026-09-15T13:08:43.469Z"
+    },
+    {
+      "id": "EX-doorway-chest-stretch-37FNBGMB8FB8ZC7WMP3SA0TBXE",
+      "name": "Doorway Chest Stretch",
+      "categories": [
+        "flexibility_and_mobility"
+      ],
+      "bodyParts": [
+        "chest",
+        "shoulders"
+      ],
+      "equipment": [
+        "doorway"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-doorway-chest-stretch-37FNBGMB8FB8ZC7WMP3SA0TBXE",
+      "lastUpdated": "2026-09-21T11:15:26.713Z"
+    },
+    {
+      "id": "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS",
+      "name": "Dumbbell Overhead Press",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "triceps",
+        "core",
+        "upper back",
+        "biceps"
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS",
+      "lastUpdated": "2026-09-17T14:57:47.276Z"
+    },
+    {
+      "id": "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH",
+      "name": "Dynamic Leg Swing with Support",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "hips",
+        "hamstrings",
+        "hip flexors",
+        "legs"
+      ],
+      "equipment": [
+        "chair"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH",
+      "lastUpdated": "2026-09-21T10:30:29.240Z"
+    },
+    {
+      "id": "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
+      "name": "Easy Seat",
+      "categories": [
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
+      "lastUpdated": "2026-09-17T15:17:39.200Z"
+    },
+    {
+      "id": "EX-extended-exhale-breathing-2W5V0CY8ARMJS84ZGN81A3W9WJ",
+      "name": "Extended-Exhale Breathing",
+      "categories": [
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [
+        "diaphragm",
+        "breathing_muscles",
+        "full body"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-extended-exhale-breathing-2W5V0CY8ARMJS84ZGN81A3W9WJ",
+      "lastUpdated": "2026-09-22T10:47:38.190Z"
+    },
+    {
+      "id": "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81",
+      "name": "Farmer Carry",
+      "categories": [
+        "strength_and_resistance",
+        "endurance"
+      ],
+      "bodyParts": [
+        "forearms",
+        "core",
+        "shoulders",
+        "full body",
+        "upper back"
+      ],
+      "equipment": [
+        "dumbbells"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81",
+      "lastUpdated": "2026-09-22T10:52:05.447Z"
+    },
+    {
+      "id": "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1",
+      "name": "Glute Bridge",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "glutes",
+        "hamstrings",
+        "core",
+        "lower back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1",
+      "lastUpdated": "2026-09-15T10:34:31.742Z"
+    },
+    {
+      "id": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+      "name": "Knee Push-Ups",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "shoulders",
+        "chest",
+        "triceps"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+      "lastUpdated": "2026-09-14T09:29:07.438Z"
+    },
+    {
+      "id": "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12",
+      "name": "Knees to Chest",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "hips",
+        "glutes",
+        "lower back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12",
+      "lastUpdated": "2026-09-14T09:53:21.700Z"
+    },
+    {
+      "id": "EX-leg-raises-01KZ3V3DYND08RZF4CTKT9VFT9",
+      "name": "Leg Raises",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "hip flexors",
+        "lower back"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-leg-raises-01KZ3V3DYND08RZF4CTKT9VFT9",
+      "lastUpdated": "2026-09-21T12:48:02.224Z"
+    },
+    {
+      "id": "EX-lying-raised-leg-toe-taps-01KZ3V3DYT59YPX0KBDFY9QZXF",
+      "name": "Lying Raised Leg Toe Taps",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "abdominals",
+        "lower back",
+        "hip flexors"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-lying-raised-leg-toe-taps-01KZ3V3DYT59YPX0KBDFY9QZXF",
+      "lastUpdated": "2026-09-22T11:24:12.848Z"
+    },
+    {
+      "id": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+      "name": "Mindfulness",
+      "categories": [
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+      "lastUpdated": "2026-09-18T12:16:30.449Z"
+    },
+    {
+      "id": "EX-neck-strength-front-01KZ3V3DYX6ZS73404ZXY1K7AS",
+      "name": "Neck Strength Front",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "neck"
+      ],
+      "equipment": [
+        "chair"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-neck-strength-front-01KZ3V3DYX6ZS73404ZXY1K7AS",
+      "lastUpdated": "2026-09-17T14:25:33.344Z"
+    },
+    {
+      "id": "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX",
+      "name": "Nordic Walking",
+      "categories": [
+        "endurance"
+      ],
+      "bodyParts": [
+        "shoulders",
+        "legs",
+        "full body",
+        "upper back"
+      ],
+      "equipment": [
+        "walking_poles"
+      ],
+      "location": [
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX",
+      "lastUpdated": "2026-09-17T14:02:07.001Z"
+    },
+    {
+      "id": "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+      "name": "Romanian Deadlift with Dumbbells",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "hamstrings",
+        "glutes",
+        "forearms",
+        "lower back",
+        "hip flexors",
+        "core"
+      ],
+      "equipment": [
+        "dumbbells"
+      ],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+      "lastUpdated": "2026-09-14T10:49:26.843Z"
+    },
+    {
+      "id": "EX-rowing-machine-29N80H8900F2BJY8VMJMZ393A2",
+      "name": "Rowing Machine",
+      "categories": [
+        "endurance",
+        "strength_and_resistance",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "full_body",
+        "upper_back",
+        "quadriceps",
+        "glutes"
+      ],
+      "equipment": [
+        "rowing_machine"
+      ],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-rowing-machine-29N80H8900F2BJY8VMJMZ393A2",
+      "lastUpdated": "2026-09-22T10:25:49.522Z"
+    },
+    {
+      "id": "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
+      "name": "Seated Marching",
+      "categories": [
+        "endurance",
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "hips",
+        "quadriceps",
+        "core"
+      ],
+      "equipment": [
+        "chair"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
+      "lastUpdated": "2026-09-16T11:54:06.870Z"
+    },
+    {
+      "id": "EX-shoulder-shrugs-01KZ3V3DYX6ZS73404ZXY1K7AJ",
+      "name": "Shoulder Shrugs",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination",
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [
+        "shoulders"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-shoulder-shrugs-01KZ3V3DYX6ZS73404ZXY1K7AJ",
+      "lastUpdated": "2026-09-22T11:02:45.476Z"
+    },
+    {
+      "id": "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+      "name": "Sit-Up",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "core",
+        "abdominals",
+        "hip flexors"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+      "lastUpdated": "2026-09-21T12:54:23.443Z"
+    },
+    {
+      "id": "EX-swimmers-01KZ3V3DYPMJ0VD30AKHABF5P5",
+      "name": "Swimming Superman",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "glutes",
+        "upper back",
+        "lower back",
+        "core",
+        "full body"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-swimmers-01KZ3V3DYPMJ0VD30AKHABF5P5",
+      "lastUpdated": "2026-09-17T15:30:04.985Z"
+    },
+    {
+      "id": "EX-thumb-stretch-01KZ3V3DYQG2ZAZAGXM9YXKZ42",
+      "name": "Thumb Stretch",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "wrists",
+        "forearms"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-thumb-stretch-01KZ3V3DYQG2ZAZAGXM9YXKZ42",
+      "lastUpdated": "2026-09-22T11:43:21.103Z"
+    },
+    {
+      "id": "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
+      "name": "Toe Stand",
+      "categories": [
+        "balance_and_coordination"
+      ],
+      "bodyParts": [
+        "calves",
+        "ankles",
+        "feet"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
+      "lastUpdated": "2026-09-14T10:36:51.420Z"
+    },
+    {
+      "id": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
+      "name": "Tree Pose",
+      "categories": [
+        "flexibility_and_mobility",
+        "balance_and_coordination",
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [
+        "ankles",
+        "feet",
+        "core"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
+      "lastUpdated": "2026-09-14T12:57:27.450Z"
     }
   ]
 }

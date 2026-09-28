@@ -1,0 +1,90 @@
+{
+  "id": "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS",
+  "name": "Dumbbell Overhead Press",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "triceps",
+    "core",
+    "upper back",
+    "biceps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand tall with your feet about shoulder-width apart and hold a dumbbell in each hand at shoulder height. Use an overhand grip with your palms facing forward and your elbows slightly out to the sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Brace your core and gently squeeze your glutes to stabilize your body. Keep your chest upright and avoid leaning backward or arching your lower back."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Press both dumbbells straight upward in a controlled, vertical path until your arms are fully extended overhead. As the dumbbells reach the top, gently move your head forward so that your body is aligned directly underneath the weights."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Slowly lower the dumbbells back to shoulder height, keeping the weights under control and avoiding letting them drift too far forward or backward."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Dumbbell Overhead Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "variationDescription": "Dumbbell Overhead Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-17T14:57:47.276Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-17T14:57:47.276Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep your core and glutes engaged throughout the movement to stabilize your body.",
+    "Press the dumbbells vertically, rather than moving them forward as you press.",
+    "Avoid arching your lower back or flaring your ribs to help the weights overhead.",
+    "Focus on smooth, controlled repetitions rather than using momentum."
+  ]
+}

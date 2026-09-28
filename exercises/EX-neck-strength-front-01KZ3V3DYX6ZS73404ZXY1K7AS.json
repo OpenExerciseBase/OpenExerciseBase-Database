@@ -1,0 +1,72 @@
+{
+  "id": "EX-neck-strength-front-01KZ3V3DYX6ZS73404ZXY1K7AS",
+  "name": "Neck Strength Front",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "neck"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand upright with your shoulders relaxed and your spine in a neutral position. Place the heel of one or both hands gently against your forehead."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently engage your core and keep your head, neck, and upper body still. Maintain a neutral neck position without looking up, down, or tilting your head."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Press your forehead into your hand while your hand provides equal resistance, creating tension without allowing your head to move. Keep your neck long and avoid shrugging your shoulders or leaning your body."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold the contraction for at least 5 seconds while breathing normally, then relax. Repeat for the desired number of repetitions."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-17T14:25:33.344Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-17T14:25:33.344Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Breathe normally and avoid holding your breath during the contraction.",
+    "Stop if you experience pain, dizziness, or unusual discomfort.",
+    "Use only gentle to moderate pressure — the goal is to create tension, not maximum force."
+  ]
+}

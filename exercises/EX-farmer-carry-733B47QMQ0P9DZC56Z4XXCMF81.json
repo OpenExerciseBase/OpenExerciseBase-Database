@@ -1,0 +1,96 @@
+{
+  "id": "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81",
+  "name": "Farmer Carry",
+  "categories": [
+    "strength_and_resistance",
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_grip_strength",
+    "improved_core_stability",
+    "improved_muscular_endurance",
+    "increased_muscle_strength",
+    "increased_heart_rate",
+    "increased_breathing"
+  ],
+  "bodyParts": [
+    "forearms",
+    "core",
+    "shoulders",
+    "full body",
+    "upper back"
+  ],
+  "equipment": [
+    "dumbbells"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand between two dumbbells with your feet about hip-width apart. Hinge at your hips and bend your knees to lower yourself, keeping your back neutral. Grip the dumbbells firmly and stand up by pressing through your feet and extending your hips."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Once upright, hold the dumbbells at your sides with your arms straight. Engage your core, keep your chest open, and relax your shoulders away from your ears."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Walk forward with short, controlled steps while keeping your torso upright. Keep the dumbbells close to your sides and prevent them from swinging."
+    },
+    {
+      "stepNumber": 4,
+      "description": "After the desired distance, stop and lower the dumbbells to the floor using a controlled hip hinge. Keep your back neutral and place the weights down gently."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    }
+  ],
+  "variations": [
+    {
+      "variationDescription": "Farmer Carry — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "variationDescription": "Farmer Carry — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "accepted_with_edits",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-22T10:52:05.447Z",
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-09-22T10:52:05.447Z",
+    "lastEditedBy": "Open Exercise Team",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null,
+    "image_source": "ai generated"
+  },
+  "commentsNotes": [
+    "Keep the walking path clear.",
+    "Engage your core throughout the carry to keep your trunk stable.",
+    "Keep your spine neutral and avoid leaning to either side.",
+    "Use short, steady steps rather than rushing.",
+    "Choose a weight that allows you to maintain good posture and control throughout."
+  ]
+}
