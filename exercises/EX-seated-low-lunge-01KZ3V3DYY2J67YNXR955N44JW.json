@@ -57,15 +57,18 @@
   },
   "metadata": {
     "createdBy": "professional",
-    "reviewStatus": "unreviewed",
-    "reviewedBy": [],
-    "dateReviewed": null,
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "Open Exercise Team"
+    ],
+    "dateReviewed": "2026-09-18T11:44:29.989Z",
     "reviewNotes": null,
     "dateCreated": "2026-08-03",
-    "lastUpdated": "2026-08-03",
-    "lastEditedBy": "data-conversion",
+    "lastUpdated": "2026-09-18T11:44:29.989Z",
+    "lastEditedBy": "Open Exercise Team",
     "dedupStatus": "not_duplicate",
-    "duplicateOf": null
+    "duplicateOf": null,
+    "image_source": "ai generated"
   },
   "commentsNotes": []
 }
