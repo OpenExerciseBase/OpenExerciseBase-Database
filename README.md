@@ -23,7 +23,7 @@ Clone this repository, browse and download exercises on the [website](https://op
 
 ## Licence
 
-[CC BY-NC 4.0](LICENSE). You may share and adapt the data for non-commercial purposes with appropriate credit.
+Copyright © 2026 Ludwig Boltzmann Institute for Digital Health and Prevention. The data is licensed under [CC BY-NC 4.0](LICENSE). You may share and adapt it for non-commercial purposes with appropriate credit.
 
 ## Citing
 
